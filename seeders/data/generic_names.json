@@ -1,0 +1,170 @@
+[
+    {
+        "generic_name": "Amlodipine",
+        "category": "Heart Care"
+    },
+    {
+        "generic_name": "Amoxicillin",
+        "category": "Antibiotics"
+    },
+    {
+        "generic_name": "Atorvastatin",
+        "category": "Heart Care"
+    },
+    {
+        "generic_name": "Azithromycin",
+        "category": "Antibiotics"
+    },
+    {
+        "generic_name": "Bisoprolol",
+        "category": "Heart Care"
+    },
+    {
+        "generic_name": "Calcium Carbonate",
+        "category": "Vitamins"
+    },
+    {
+        "generic_name": "Cefixime",
+        "category": "Antibiotics"
+    },
+    {
+        "generic_name": "Ceftriaxone",
+        "category": "Antibiotics"
+    },
+    {
+        "generic_name": "Cefuroxime",
+        "category": "Antibiotics"
+    },
+    {
+        "generic_name": "Cetirizine",
+        "category": "Respiratory"
+    },
+    {
+        "generic_name": "Ciprofloxacin",
+        "category": "Antibiotics"
+    },
+    {
+        "generic_name": "Clarithromycin",
+        "category": "Antibiotics"
+    },
+    {
+        "generic_name": "Clopidogrel",
+        "category": "Heart Care"
+    },
+    {
+        "generic_name": "Co-Amoxiclav",
+        "category": "Antibiotics"
+    },
+    {
+        "generic_name": "Diclofenac",
+        "category": "Pain Relief"
+    },
+    {
+        "generic_name": "Domperidone",
+        "category": "Gastrointestinal"
+    },
+    {
+        "generic_name": "Empagliflozin",
+        "category": "Diabetes"
+    },
+    {
+        "generic_name": "Esomeprazole",
+        "category": "Gastrointestinal"
+    },
+    {
+        "generic_name": "Ferrous Sulfate",
+        "category": "Vitamins"
+    },
+    {
+        "generic_name": "Folic Acid",
+        "category": "Vitamins"
+    },
+    {
+        "generic_name": "Gliclazide",
+        "category": "Diabetes"
+    },
+    {
+        "generic_name": "Glimepiride",
+        "category": "Diabetes"
+    },
+    {
+        "generic_name": "Ibuprofen",
+        "category": "Pain Relief"
+    },
+    {
+        "generic_name": "Ketorolac",
+        "category": "Pain Relief"
+    },
+    {
+        "generic_name": "Levofloxacin",
+        "category": "Antibiotics"
+    },
+    {
+        "generic_name": "Loratadine",
+        "category": "Respiratory"
+    },
+    {
+        "generic_name": "Losartan",
+        "category": "Heart Care"
+    },
+    {
+        "generic_name": "Metformin",
+        "category": "Diabetes"
+    },
+    {
+        "generic_name": "Metoprolol",
+        "category": "Heart Care"
+    },
+    {
+        "generic_name": "Montelukast",
+        "category": "Respiratory"
+    },
+    {
+        "generic_name": "Moxifloxacin",
+        "category": "Antibiotics"
+    },
+    {
+        "generic_name": "Naproxen",
+        "category": "Pain Relief"
+    },
+    {
+        "generic_name": "Omeprazole",
+        "category": "Gastrointestinal"
+    },
+    {
+        "generic_name": "Pantoprazole",
+        "category": "Gastrointestinal"
+    },
+    {
+        "generic_name": "Paracetamol",
+        "category": "Pain Relief"
+    },
+    {
+        "generic_name": "Rabeprazole",
+        "category": "Gastrointestinal"
+    },
+    {
+        "generic_name": "Rosuvastatin",
+        "category": "Heart Care"
+    },
+    {
+        "generic_name": "Salbutamol",
+        "category": "Respiratory"
+    },
+    {
+        "generic_name": "Sitagliptin",
+        "category": "Diabetes"
+    },
+    {
+        "generic_name": "Valsartan",
+        "category": "Heart Care"
+    },
+    {
+        "generic_name": "Vitamin C",
+        "category": "Vitamins"
+    },
+    {
+        "generic_name": "Vitamin D3",
+        "category": "Vitamins"
+    }
+]

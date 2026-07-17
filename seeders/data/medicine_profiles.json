@@ -1,0 +1,1772 @@
+[
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "5mg",
+            "10mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Hypertension",
+            "Angina"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Calcium Channel Blocker",
+        "generic_name": "Amlodipine",
+        "category": "Heart Care"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Capsule",
+            "Tablet",
+            "Suspension"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Ear Infection",
+            "Skin Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Penicillin Antibiotic",
+        "generic_name": "Amoxicillin",
+        "category": "Antibiotics"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "10mg",
+            "20mg",
+            "40mg",
+            "80mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "High Cholesterol"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Statin",
+        "generic_name": "Atorvastatin",
+        "category": "Heart Care"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Capsule",
+            "Suspension"
+        ],
+        "package_sizes": [
+            "Strip of 3",
+            "Strip of 6",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Ear Infection",
+            "Skin Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Macrolide",
+        "generic_name": "Azithromycin",
+        "category": "Antibiotics"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "2.5mg",
+            "5mg",
+            "10mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Hypertension",
+            "Heart Failure",
+            "Arrhythmia"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Beta Blocker",
+        "generic_name": "Bisoprolol",
+        "category": "Heart Care"
+    },
+    {
+        "therapeutic_classes": [
+            "Vitamin Supplement",
+            "Mineral Supplement",
+            "Iron Supplement",
+            "Calcium Supplement",
+            "Multivitamin"
+        ],
+        "strengths": [
+            "500mg",
+            "1000mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Oral Sachet"
+        ],
+        "package_sizes": [
+            "Bottle of 30",
+            "Bottle of 60",
+            "Bottle of 100"
+        ],
+        "indications": [
+            "Calcium Deficiency",
+            "General Weakness"
+        ],
+        "side_effects": [
+            "Constipation",
+            "Nausea",
+            "Abdominal Pain",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Mineral Supplement",
+        "generic_name": "Calcium Carbonate",
+        "category": "Vitamins"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "200mg",
+            "400mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Capsule",
+            "Suspension"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Typhoid Fever",
+            "Respiratory Infection",
+            "Urinary Tract Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Cephalosporin",
+        "generic_name": "Cefixime",
+        "category": "Antibiotics"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "500mg",
+            "1000mg"
+        ],
+        "dosage_forms": [
+            "Injection"
+        ],
+        "package_sizes": [
+            "Vial"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Typhoid Fever",
+            "Bacterial Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Cephalosporin",
+        "generic_name": "Ceftriaxone",
+        "category": "Antibiotics"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Suspension",
+            "Injection"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Vial"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Ear Infection",
+            "Skin Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Cephalosporin",
+        "generic_name": "Cefuroxime",
+        "category": "Antibiotics"
+    },
+    {
+        "therapeutic_classes": [
+            "Bronchodilator",
+            "Antihistamine",
+            "Leukotriene Receptor Antagonist",
+            "Mucolytic"
+        ],
+        "strengths": [
+            "5mg",
+            "10mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Syrup"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Allergic Rhinitis",
+            "Seasonal Allergy"
+        ],
+        "side_effects": [
+            "Headache",
+            "Dry Mouth",
+            "Dizziness",
+            "Palpitations",
+            "Drowsiness"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Respiratory Depression"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from direct sunlight.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Antihistamine",
+        "generic_name": "Cetirizine",
+        "category": "Respiratory"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Infusion"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Bottle of 100"
+        ],
+        "indications": [
+            "Urinary Tract Infection",
+            "Typhoid Fever",
+            "Bacterial Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Fluoroquinolone",
+        "generic_name": "Ciprofloxacin",
+        "category": "Antibiotics"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Suspension"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Skin Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Macrolide",
+        "generic_name": "Clarithromycin",
+        "category": "Antibiotics"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "75mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Heart Attack Prevention",
+            "Stroke Prevention"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Antiplatelet",
+        "generic_name": "Clopidogrel",
+        "category": "Heart Care"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Suspension"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Skin Infection",
+            "Urinary Tract Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Penicillin Antibiotic",
+        "generic_name": "Co-Amoxiclav",
+        "category": "Antibiotics"
+    },
+    {
+        "therapeutic_classes": [
+            "Analgesic",
+            "NSAID",
+            "Opioid Analgesic"
+        ],
+        "strengths": [
+            "25mg",
+            "50mg",
+            "75mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Injection",
+            "Gel",
+            "Cream"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Tube 20g",
+            "Tube 30g",
+            "Ampoule"
+        ],
+        "indications": [
+            "Joint Pain",
+            "Back Pain",
+            "Muscle Pain",
+            "Arthritis"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Vomiting",
+            "Abdominal Pain",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Severe Liver Disease",
+            "History of Gastrointestinal Bleeding"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "NSAID",
+        "generic_name": "Diclofenac",
+        "category": "Pain Relief"
+    },
+    {
+        "therapeutic_classes": [
+            "Proton Pump Inhibitor",
+            "H2 Blocker",
+            "Antacid"
+        ],
+        "strengths": [
+            "10mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Suspension"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Nausea",
+            "Vomiting",
+            "GERD"
+        ],
+        "side_effects": [
+            "Headache",
+            "Constipation",
+            "Diarrhea",
+            "Abdominal Pain",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Liver Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Dopamine Antagonist",
+        "generic_name": "Domperidone",
+        "category": "Gastrointestinal"
+    },
+    {
+        "therapeutic_classes": [
+            "Biguanide",
+            "Sulfonylurea",
+            "DPP-4 Inhibitor",
+            "SGLT2 Inhibitor"
+        ],
+        "strengths": [
+            "10mg",
+            "25mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Type 2 Diabetes",
+            "Blood Sugar Control"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Diarrhea",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Severe Kidney Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "SGLT2 Inhibitor",
+        "generic_name": "Empagliflozin",
+        "category": "Diabetes"
+    },
+    {
+        "therapeutic_classes": [
+            "Proton Pump Inhibitor",
+            "H2 Blocker",
+            "Antacid"
+        ],
+        "strengths": [
+            "20mg",
+            "40mg"
+        ],
+        "dosage_forms": [
+            "Capsule",
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "GERD",
+            "Acidity",
+            "Peptic Ulcer"
+        ],
+        "side_effects": [
+            "Headache",
+            "Constipation",
+            "Diarrhea",
+            "Abdominal Pain",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Liver Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Proton Pump Inhibitor",
+        "generic_name": "Esomeprazole",
+        "category": "Gastrointestinal"
+    },
+    {
+        "therapeutic_classes": [
+            "Vitamin Supplement",
+            "Mineral Supplement",
+            "Iron Supplement",
+            "Calcium Supplement",
+            "Multivitamin"
+        ],
+        "strengths": [
+            "200mg",
+            "325mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Syrup"
+        ],
+        "package_sizes": [
+            "Bottle of 30",
+            "Bottle of 60",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Iron Deficiency",
+            "General Weakness"
+        ],
+        "side_effects": [
+            "Constipation",
+            "Nausea",
+            "Abdominal Pain",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Iron Supplement",
+        "generic_name": "Ferrous Sulfate",
+        "category": "Vitamins"
+    },
+    {
+        "therapeutic_classes": [
+            "Vitamin Supplement",
+            "Mineral Supplement",
+            "Iron Supplement",
+            "Calcium Supplement",
+            "Multivitamin"
+        ],
+        "strengths": [
+            "400mcg",
+            "5mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Bottle of 30",
+            "Bottle of 60"
+        ],
+        "indications": [
+            "Pregnancy Supplements",
+            "Iron Deficiency"
+        ],
+        "side_effects": [
+            "Constipation",
+            "Nausea",
+            "Abdominal Pain",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Folate Supplement",
+        "generic_name": "Folic Acid",
+        "category": "Vitamins"
+    },
+    {
+        "therapeutic_classes": [
+            "Biguanide",
+            "Sulfonylurea",
+            "DPP-4 Inhibitor",
+            "SGLT2 Inhibitor"
+        ],
+        "strengths": [
+            "30mg",
+            "60mg",
+            "80mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Type 2 Diabetes",
+            "Blood Sugar Control"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Diarrhea",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Severe Kidney Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Sulfonylurea",
+        "generic_name": "Gliclazide",
+        "category": "Diabetes"
+    },
+    {
+        "therapeutic_classes": [
+            "Biguanide",
+            "Sulfonylurea",
+            "DPP-4 Inhibitor",
+            "SGLT2 Inhibitor"
+        ],
+        "strengths": [
+            "1mg",
+            "2mg",
+            "4mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Type 2 Diabetes",
+            "Blood Sugar Control"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Diarrhea",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Severe Kidney Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Sulfonylurea",
+        "generic_name": "Glimepiride",
+        "category": "Diabetes"
+    },
+    {
+        "therapeutic_classes": [
+            "Analgesic",
+            "NSAID",
+            "Opioid Analgesic"
+        ],
+        "strengths": [
+            "200mg",
+            "400mg",
+            "600mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Capsule",
+            "Suspension",
+            "Syrup"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Fever",
+            "Headache",
+            "Migraine",
+            "Joint Pain",
+            "Muscle Pain",
+            "Dental Pain"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Vomiting",
+            "Abdominal Pain",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Severe Liver Disease",
+            "History of Gastrointestinal Bleeding"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "NSAID",
+        "generic_name": "Ibuprofen",
+        "category": "Pain Relief"
+    },
+    {
+        "therapeutic_classes": [
+            "Analgesic",
+            "NSAID",
+            "Opioid Analgesic"
+        ],
+        "strengths": [
+            "10mg",
+            "30mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Injection"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Ampoule"
+        ],
+        "indications": [
+            "Postoperative Pain",
+            "Dental Pain",
+            "Severe Pain"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Vomiting",
+            "Abdominal Pain",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Severe Liver Disease",
+            "History of Gastrointestinal Bleeding"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "NSAID",
+        "generic_name": "Ketorolac",
+        "category": "Pain Relief"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Infusion"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Bottle of 100"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Urinary Tract Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Fluoroquinolone",
+        "generic_name": "Levofloxacin",
+        "category": "Antibiotics"
+    },
+    {
+        "therapeutic_classes": [
+            "Bronchodilator",
+            "Antihistamine",
+            "Leukotriene Receptor Antagonist",
+            "Mucolytic"
+        ],
+        "strengths": [
+            "5mg",
+            "10mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Syrup"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Seasonal Allergy",
+            "Allergic Rhinitis"
+        ],
+        "side_effects": [
+            "Headache",
+            "Dry Mouth",
+            "Dizziness",
+            "Palpitations",
+            "Drowsiness"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Respiratory Depression"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from direct sunlight.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Antihistamine",
+        "generic_name": "Loratadine",
+        "category": "Respiratory"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "25mg",
+            "50mg",
+            "100mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Hypertension",
+            "Heart Failure"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "ARB",
+        "generic_name": "Losartan",
+        "category": "Heart Care"
+    },
+    {
+        "therapeutic_classes": [
+            "Biguanide",
+            "Sulfonylurea",
+            "DPP-4 Inhibitor",
+            "SGLT2 Inhibitor"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg",
+            "850mg",
+            "1000mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20",
+            "Bottle of 60"
+        ],
+        "indications": [
+            "Type 2 Diabetes",
+            "Blood Sugar Control"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Diarrhea",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Severe Kidney Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Biguanide",
+        "generic_name": "Metformin",
+        "category": "Diabetes"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "25mg",
+            "50mg",
+            "100mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Hypertension",
+            "Angina",
+            "Arrhythmia"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Beta Blocker",
+        "generic_name": "Metoprolol",
+        "category": "Heart Care"
+    },
+    {
+        "therapeutic_classes": [
+            "Bronchodilator",
+            "Antihistamine",
+            "Leukotriene Receptor Antagonist",
+            "Mucolytic"
+        ],
+        "strengths": [
+            "4mg",
+            "5mg",
+            "10mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Asthma",
+            "Seasonal Allergy",
+            "Allergic Rhinitis"
+        ],
+        "side_effects": [
+            "Headache",
+            "Dry Mouth",
+            "Dizziness",
+            "Palpitations",
+            "Drowsiness"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Respiratory Depression"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from direct sunlight.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Leukotriene Receptor Antagonist",
+        "generic_name": "Montelukast",
+        "category": "Respiratory"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "400mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Eye Drops"
+        ],
+        "package_sizes": [
+            "Strip of 5",
+            "Strip of 10"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Eye Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Fluoroquinolone",
+        "generic_name": "Moxifloxacin",
+        "category": "Antibiotics"
+    },
+    {
+        "therapeutic_classes": [
+            "Analgesic",
+            "NSAID",
+            "Opioid Analgesic"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Joint Pain",
+            "Back Pain",
+            "Migraine",
+            "Menstrual Pain"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Vomiting",
+            "Abdominal Pain",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Severe Liver Disease",
+            "History of Gastrointestinal Bleeding"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "NSAID",
+        "generic_name": "Naproxen",
+        "category": "Pain Relief"
+    },
+    {
+        "therapeutic_classes": [
+            "Proton Pump Inhibitor",
+            "H2 Blocker",
+            "Antacid"
+        ],
+        "strengths": [
+            "20mg",
+            "40mg"
+        ],
+        "dosage_forms": [
+            "Capsule",
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "GERD",
+            "Acidity",
+            "Peptic Ulcer"
+        ],
+        "side_effects": [
+            "Headache",
+            "Constipation",
+            "Diarrhea",
+            "Abdominal Pain",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Liver Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Proton Pump Inhibitor",
+        "generic_name": "Omeprazole",
+        "category": "Gastrointestinal"
+    },
+    {
+        "therapeutic_classes": [
+            "Proton Pump Inhibitor",
+            "H2 Blocker",
+            "Antacid"
+        ],
+        "strengths": [
+            "20mg",
+            "40mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Injection"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Vial"
+        ],
+        "indications": [
+            "GERD",
+            "Acidity",
+            "Peptic Ulcer"
+        ],
+        "side_effects": [
+            "Headache",
+            "Constipation",
+            "Diarrhea",
+            "Abdominal Pain",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Liver Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Proton Pump Inhibitor",
+        "generic_name": "Pantoprazole",
+        "category": "Gastrointestinal"
+    },
+    {
+        "therapeutic_classes": [
+            "Analgesic",
+            "NSAID",
+            "Opioid Analgesic"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg",
+            "650mg",
+            "1000mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Syrup",
+            "Suspension",
+            "Drops"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20",
+            "Bottle of 100",
+            "60ml Bottle",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Headache",
+            "Fever",
+            "Body Pain",
+            "Muscle Pain",
+            "Joint Pain",
+            "Dental Pain"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Vomiting",
+            "Abdominal Pain",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Severe Liver Disease",
+            "History of Gastrointestinal Bleeding"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Analgesic",
+        "generic_name": "Paracetamol",
+        "category": "Pain Relief"
+    },
+    {
+        "therapeutic_classes": [
+            "Proton Pump Inhibitor",
+            "H2 Blocker",
+            "Antacid"
+        ],
+        "strengths": [
+            "20mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "GERD",
+            "Acidity"
+        ],
+        "side_effects": [
+            "Headache",
+            "Constipation",
+            "Diarrhea",
+            "Abdominal Pain",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Liver Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Proton Pump Inhibitor",
+        "generic_name": "Rabeprazole",
+        "category": "Gastrointestinal"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "5mg",
+            "10mg",
+            "20mg",
+            "40mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "High Cholesterol"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Statin",
+        "generic_name": "Rosuvastatin",
+        "category": "Heart Care"
+    },
+    {
+        "therapeutic_classes": [
+            "Bronchodilator",
+            "Antihistamine",
+            "Leukotriene Receptor Antagonist",
+            "Mucolytic"
+        ],
+        "strengths": [
+            "2mg",
+            "4mg",
+            "100mcg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Syrup",
+            "Inhaler",
+            "Respules"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle",
+            "Pack of 1"
+        ],
+        "indications": [
+            "Asthma",
+            "COPD"
+        ],
+        "side_effects": [
+            "Headache",
+            "Dry Mouth",
+            "Dizziness",
+            "Palpitations",
+            "Drowsiness"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Respiratory Depression"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from direct sunlight.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Bronchodilator",
+        "generic_name": "Salbutamol",
+        "category": "Respiratory"
+    },
+    {
+        "therapeutic_classes": [
+            "Biguanide",
+            "Sulfonylurea",
+            "DPP-4 Inhibitor",
+            "SGLT2 Inhibitor"
+        ],
+        "strengths": [
+            "25mg",
+            "50mg",
+            "100mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Type 2 Diabetes",
+            "Blood Sugar Control"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Diarrhea",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Severe Kidney Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "DPP-4 Inhibitor",
+        "generic_name": "Sitagliptin",
+        "category": "Diabetes"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "40mg",
+            "80mg",
+            "160mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Hypertension",
+            "Heart Failure"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "ARB",
+        "generic_name": "Valsartan",
+        "category": "Heart Care"
+    },
+    {
+        "therapeutic_classes": [
+            "Vitamin Supplement",
+            "Mineral Supplement",
+            "Iron Supplement",
+            "Calcium Supplement",
+            "Multivitamin"
+        ],
+        "strengths": [
+            "500mg",
+            "1000mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Capsule",
+            "Oral Sachet"
+        ],
+        "package_sizes": [
+            "Bottle of 30",
+            "Bottle of 60",
+            "Bottle of 100"
+        ],
+        "indications": [
+            "Vitamin Deficiency",
+            "Immune Support"
+        ],
+        "side_effects": [
+            "Constipation",
+            "Nausea",
+            "Abdominal Pain",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Vitamin",
+        "generic_name": "Vitamin C",
+        "category": "Vitamins"
+    },
+    {
+        "therapeutic_classes": [
+            "Vitamin Supplement",
+            "Mineral Supplement",
+            "Iron Supplement",
+            "Calcium Supplement",
+            "Multivitamin"
+        ],
+        "strengths": [
+            "400IU",
+            "1000IU",
+            "2000IU",
+            "5000IU"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Capsule",
+            "Drops"
+        ],
+        "package_sizes": [
+            "Bottle of 30",
+            "Bottle of 60"
+        ],
+        "indications": [
+            "Vitamin Deficiency",
+            "Calcium Deficiency"
+        ],
+        "side_effects": [
+            "Constipation",
+            "Nausea",
+            "Abdominal Pain",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Vitamin",
+        "generic_name": "Vitamin D3",
+        "category": "Vitamins"
+    }
+]

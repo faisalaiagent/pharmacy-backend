@@ -58,9 +58,17 @@ class Manufacturer(SoftDeleteModel):
         max_length=100, blank=True,
         help_text="Drug manufacturing license / regulatory registration number"
     )
-    logo = models.URLField(blank=True)
+    logo = models.URLField(
+    blank=True,
+    null=True,
+    default=""
+    )
+
     website = models.URLField(blank=True)
-    description = models.TextField(blank=True)
+    description = models.TextField(
+    blank=True,
+    default=""
+    )
 
     class Meta:
         ordering = ["name"]
@@ -75,20 +83,58 @@ class Manufacturer(SoftDeleteModel):
 
 
 class Brand(SoftDeleteModel):
+    """
+    A commercial medicine brand.
+
+    Examples:
+        Manufacturer: Getz Pharma
+        Brand: Getz
+
+        Manufacturer: GSK Pakistan
+        Brand: Panadol
+
+        Manufacturer: Pfizer Pakistan
+        Brand: Pfizer
+    """
+
+    manufacturer = models.ForeignKey(
+        Manufacturer,
+        on_delete=models.SET_NULL,
+        null=True,
+        blank=True,
+        related_name="brands",
+        help_text="Manufacturer that owns or markets this brand."
+    )
+
     name = models.CharField(max_length=255, unique=True)
-    slug = models.SlugField(max_length=275, unique=True, blank=True)
+
+    slug = models.SlugField(
+        max_length=275,
+        unique=True,
+        blank=True
+    )
+
     logo = models.URLField(blank=True)
+
     description = models.TextField(blank=True)
 
     class Meta:
         ordering = ["name"]
+        indexes = [
+            models.Index(fields=["name"]),
+            models.Index(fields=["slug"]),
+            models.Index(fields=["manufacturer"]),
+        ]
 
     def __str__(self):
+        if self.manufacturer:
+            return f"{self.name} ({self.manufacturer.name})"
         return self.name
 
     def save(self, *args, **kwargs):
         if not self.slug:
             self.slug = slugify(self.name)
+
         super().save(*args, **kwargs)
 
 
@@ -255,6 +301,67 @@ class ProductImage(BaseModel):
             ).update(is_primary=False)
         super().save(*args, **kwargs)
 
+class ProductRelation(BaseModel):
+
+    class RelationType(models.TextChoices):
+
+        SAME_GENERIC = (
+            "SAME_GENERIC",
+            "Same Generic",
+        )
+
+        SAME_CATEGORY = (
+            "SAME_CATEGORY",
+            "Same Category",
+        )
+
+        BOUGHT_TOGETHER = (
+            "BOUGHT_TOGETHER",
+            "Bought Together",
+        )
+
+    product = models.ForeignKey(
+        Product,
+        on_delete=models.CASCADE,
+        related_name="related_products",
+    )
+
+    related_product = models.ForeignKey(
+        Product,
+        on_delete=models.CASCADE,
+        related_name="related_to",
+    )
+
+    relation_type = models.CharField(
+        max_length=30,
+        choices=RelationType.choices,
+    )
+
+    score = models.PositiveSmallIntegerField(
+        default=100,
+    )
+
+    class Meta:
+
+        unique_together = (
+            "product",
+            "related_product",
+            "relation_type",
+        )
+
+        indexes = [
+            models.Index(fields=["product"]),
+            models.Index(fields=["related_product"]),
+            models.Index(fields=["relation_type"]),
+        ]
+
+    def __str__(self):
+
+        return (
+            f"{self.product.name} -> "
+            f"{self.related_product.name} "
+            f"({self.relation_type})"
+        )
 
 class Inventory(BaseModel):
     """

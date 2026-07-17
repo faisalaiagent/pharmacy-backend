@@ -1,0 +1,122 @@
+[
+  {
+    "name": "Getz Pharma",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-001",
+    "website": "https://www.getzpharma.com",
+    "logo": "",
+    "description": "One of Pakistan's leading pharmaceutical manufacturers."
+  },
+  {
+    "name": "Sami Pharmaceuticals",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-002",
+    "website": "https://www.samipharma.com",
+    "logo": "",
+    "description": "Leading Pakistani pharmaceutical company."
+  },
+  {
+    "name": "Hilton Pharma",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-003",
+    "website": "https://www.hiltonpharma.com",
+    "logo": "",
+    "description": "Manufacturer of prescription and OTC medicines."
+  },
+  {
+    "name": "Highnoon Laboratories",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-004",
+    "website": "https://www.highnoon-labs.com",
+    "logo": "",
+    "description": "Research-driven pharmaceutical manufacturer."
+  },
+  {
+    "name": "Ferozsons Laboratories",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-005",
+    "website": "https://www.ferozsons-labs.com",
+    "logo": "",
+    "description": "One of Pakistan's oldest pharmaceutical companies."
+  },
+  {
+    "name": "AGP Limited",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-006",
+    "website": "https://www.agp.com.pk",
+    "logo": "",
+    "description": "AGP Limited is a leading Pakistani pharmaceutical company manufacturing prescription medicines, consumer healthcare products, and nutraceuticals."
+  },
+  {
+    "name": "Martin Dow",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-007",
+    "website": "https://www.martindow.com",
+    "logo": "",
+    "description": "Martin Dow is one of Pakistan's leading pharmaceutical manufacturers with a broad portfolio of prescription medicines and healthcare products."
+  },
+  {
+    "name": "The Searle Company",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-008",
+    "website": "https://www.searlecompany.com",
+    "logo": "",
+    "description": "The Searle Company Limited develops and manufactures high-quality pharmaceutical products across multiple therapeutic areas."
+  },
+  {
+    "name": "Bosch Pharmaceuticals",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-009",
+    "website": "https://www.bosch-pharma.com",
+    "logo": "",
+    "description": "Bosch Pharmaceuticals is a Pakistani pharmaceutical manufacturer producing prescription medicines, antibiotics, and healthcare products."
+  },
+  {
+    "name": "Abbott Laboratories Pakistan",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-010",
+    "website": "https://www.pk.abbott",
+    "logo": "",
+    "description": "Abbott Laboratories Pakistan manufactures pharmaceuticals, nutrition products, diagnostics, and consumer healthcare products."
+  },
+  {
+    "name": "GlaxoSmithKline Pakistan",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-011",
+    "website": "https://www.gsk.com",
+    "logo": "",
+    "description": "GlaxoSmithKline Pakistan produces vaccines, prescription medicines, and consumer healthcare products."
+  },
+  {
+    "name": "Pfizer Pakistan",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-012",
+    "website": "https://www.pfizer.com",
+    "logo": "",
+    "description": "Pfizer Pakistan supplies innovative medicines, vaccines, and specialty pharmaceutical products."
+  },
+  {
+    "name": "Sanofi Pakistan",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-013",
+    "website": "https://www.sanofi.com",
+    "logo": "",
+    "description": "Sanofi Pakistan manufactures medicines for diabetes, cardiovascular diseases, vaccines, and consumer healthcare."
+  },
+  {
+    "name": "OBS Pakistan",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-014",
+    "website": "https://www.obs.com.pk",
+    "logo": "",
+    "description": "OBS Pakistan develops and markets innovative pharmaceutical products across multiple therapeutic segments."
+  },
+  {
+    "name": "Barrett Hodgson Pakistan",
+    "country": "Pakistan",
+    "license_number": "PK-MFR-015",
+    "website": "https://www.barretthodgson.com",
+    "logo": "",
+    "description": "Barrett Hodgson Pakistan manufactures branded pharmaceuticals, nutraceuticals, and healthcare products."
+  }
+]

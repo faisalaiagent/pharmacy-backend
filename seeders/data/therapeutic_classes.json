@@ -1,0 +1,130 @@
+[
+    {
+        "name": "Analgesic",
+        "category": "Pain Relief"
+    },
+    {
+        "name": "NSAID",
+        "category": "Pain Relief"
+    },
+    {
+        "name": "Opioid Analgesic",
+        "category": "Pain Relief"
+    },
+    {
+        "name": "Penicillin Antibiotic",
+        "category": "Antibiotics"
+    },
+    {
+        "name": "Cephalosporin",
+        "category": "Antibiotics"
+    },
+    {
+        "name": "Macrolide",
+        "category": "Antibiotics"
+    },
+    {
+        "name": "Fluoroquinolone",
+        "category": "Antibiotics"
+    },
+    {
+        "name": "Biguanide",
+        "category": "Diabetes"
+    },
+    {
+        "name": "Sulfonylurea",
+        "category": "Diabetes"
+    },
+    {
+        "name": "DPP-4 Inhibitor",
+        "category": "Diabetes"
+    },
+    {
+        "name": "SGLT2 Inhibitor",
+        "category": "Diabetes"
+    },
+    {
+        "name": "ACE Inhibitor",
+        "category": "Heart Care"
+    },
+    {
+        "name": "ARB",
+        "category": "Heart Care"
+    },
+    {
+        "name": "Beta Blocker",
+        "category": "Heart Care"
+    },
+    {
+        "name": "Calcium Channel Blocker",
+        "category": "Heart Care"
+    },
+    {
+        "name": "Statin",
+        "category": "Heart Care"
+    },
+    {
+        "name": "Bronchodilator",
+        "category": "Respiratory"
+    },
+    {
+        "name": "Antihistamine",
+        "category": "Respiratory"
+    },
+    {
+        "name": "Corticosteroid",
+        "category": "Respiratory"
+    },
+    {
+        "name": "Proton Pump Inhibitor",
+        "category": "Gastrointestinal"
+    },
+    {
+        "name": "H2 Blocker",
+        "category": "Gastrointestinal"
+    },
+    {
+        "name": "Antacid",
+        "category": "Gastrointestinal"
+    },
+    {
+        "name": "Antifungal",
+        "category": "Skin Care"
+    },
+    {
+        "name": "Topical Steroid",
+        "category": "Skin Care"
+    },
+    {
+        "name": "Ophthalmic Antibiotic",
+        "category": "Eye Care"
+    },
+    {
+        "name": "ENT Antibiotic",
+        "category": "ENT"
+    },
+    {
+        "name": "Antiepileptic",
+        "category": "Neurology"
+    },
+    {
+        "name": "Antidepressant",
+        "category": "Neurology"
+    },
+    {
+        "name": "Urinary Antispasmodic",
+        "category": "Urology"
+    },
+    {
+        "name": "Hormonal Therapy",
+        "category": "Women's Health"
+    },
+    {
+        "name": "Vitamin",
+        "category": "Vitamins & Supplements"
+    },
+    {
+        "name": "Mineral",
+        "category": "Vitamins & Supplements"
+    }
+]

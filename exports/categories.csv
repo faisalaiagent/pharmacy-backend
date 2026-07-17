@@ -1,0 +1,27 @@
+Name,Slug,Parent,Featured
+Medicines,medicines,,True
+Pain Relief,pain-relief,Medicines,False
+Antibiotics,antibiotics,Medicines,False
+Diabetes,diabetes,Medicines,False
+Heart Care,heart-care,Medicines,False
+Respiratory,respiratory,Medicines,False
+Eye Care,eye-care,Medicines,False
+ENT,ent,Medicines,False
+Skin Care,skin-care,Medicines,False
+Gastrointestinal,gastrointestinal,Medicines,False
+Vitamins,vitamins,Medicines,False
+Women's Health,womens-health,Medicines,False
+Men's Health,mens-health,Medicines,False
+Pediatrics,pediatrics,Medicines,False
+Neurology,neurology,Medicines,False
+Oncology,oncology,Medicines,False
+Urology,urology,Medicines,False
+Personal Care,personal-care,,True
+Hair Care,hair-care,Personal Care,False
+Face Wash,face-wash,Personal Care,False
+Soap,soap,Personal Care,False
+Shampoo,shampoo,Personal Care,False
+Conditioner,conditioner,Personal Care,False
+Toothpaste,toothpaste,Personal Care,False
+Toothbrush,toothbrush,Personal Care,False
+Deodorants,deodorants,Personal Care,False

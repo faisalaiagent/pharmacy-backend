@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Medicines",
+    "icon": "https://cdn.example.com/icons/medicine.svg",
+    "image": "https://cdn.example.com/categories/medicines.jpg",
+    "featured": true,
+    "children": [
+      "Pain Relief",
+      "Antibiotics",
+      "Diabetes",
+      "Heart Care",
+      "Respiratory",
+      "Eye Care",
+      "ENT",
+      "Skin Care",
+      "Gastrointestinal",
+      "Vitamins",
+      "Women's Health",
+      "Men's Health",
+      "Pediatrics",
+      "Neurology",
+      "Oncology",
+      "Urology"
+    ]
+  },
+  {
+    "name": "Personal Care",
+    "icon": "https://cdn.example.com/icons/personal-care.svg",
+    "image": "https://cdn.example.com/categories/personal-care.jpg",
+    "featured": true,
+    "children": [
+      "Hair Care",
+      "Face Wash",
+      "Soap",
+      "Shampoo",
+      "Conditioner",
+      "Toothpaste",
+      "Toothbrush",
+      "Deodorants"
+    ]
+  }
+]

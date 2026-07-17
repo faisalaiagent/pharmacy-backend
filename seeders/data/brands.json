@@ -1,0 +1,296 @@
+[
+    {
+        "name": "ACiprvita",
+        "generic_name": "Ciprofloxacin",
+        "manufacturer": "Ferozsons Laboratories",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "AceEsomcare",
+        "generic_name": "Esomeprazole",
+        "manufacturer": "Ferozsons Laboratories",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "AceRosuon",
+        "generic_name": "Rosuvastatin",
+        "manufacturer": "Sanofi Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "AceSalbvita",
+        "generic_name": "Salbutamol",
+        "manufacturer": "OBS Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "AmClarcare",
+        "generic_name": "Clarithromycin",
+        "manufacturer": "Sanofi Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "AmNaprmax",
+        "generic_name": "Naproxen",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "BioAmlo",
+        "generic_name": "Amlodipine",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "BioDiclex",
+        "generic_name": "Diclofenac",
+        "manufacturer": "AGP Limited",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "BioDompol",
+        "generic_name": "Domperidone",
+        "manufacturer": "Martin Dow",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "BioLoraid",
+        "generic_name": "Loratadine",
+        "manufacturer": "OBS Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "CefAtorcare",
+        "generic_name": "Atorvastatin",
+        "manufacturer": "Highnoon Laboratories",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "MaxAmoxon",
+        "generic_name": "Amoxicillin",
+        "manufacturer": "Pfizer Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "MaxMontcare",
+        "generic_name": "Montelukast",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "MedGlicplus",
+        "generic_name": "Gliclazide",
+        "manufacturer": "Bosch Pharmaceuticals",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "NeoCalcon",
+        "generic_name": "Calcium Carbonate",
+        "manufacturer": "Getz Pharma",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "NeoIbup",
+        "generic_name": "Ibuprofen",
+        "manufacturer": "Highnoon Laboratories",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "NeoLevoon",
+        "generic_name": "Levofloxacin",
+        "manufacturer": "Ferozsons Laboratories",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "NeoMoxifort",
+        "generic_name": "Moxifloxacin",
+        "manufacturer": "Barrett Hodgson Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "NovaCetifort",
+        "generic_name": "Cetirizine",
+        "manufacturer": "Highnoon Laboratories",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "NovaLosaplus",
+        "generic_name": "Losartan",
+        "manufacturer": "Ferozsons Laboratories",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "PanEmpafort",
+        "generic_name": "Empagliflozin",
+        "manufacturer": "OBS Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "PanGlimfort",
+        "generic_name": "Glimepiride",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "PanMetfix",
+        "generic_name": "Metformin",
+        "manufacturer": "OBS Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "PanMetoon",
+        "generic_name": "Metoprolol",
+        "manufacturer": "AGP Limited",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "ProCoamvita",
+        "generic_name": "Co-Amoxiclav",
+        "manufacturer": "Hilton Pharma",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "ProValsfort",
+        "generic_name": "Valsartan",
+        "manufacturer": "Sami Pharmaceuticals",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "SafeCefifort",
+        "generic_name": "Cefixime",
+        "manufacturer": "Highnoon Laboratories",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "SureAzitex",
+        "generic_name": "Azithromycin",
+        "manufacturer": "Sami Pharmaceuticals",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "SureCefton",
+        "generic_name": "Ceftriaxone",
+        "manufacturer": "Getz Pharma",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "SureCefuid",
+        "generic_name": "Cefuroxime",
+        "manufacturer": "Pfizer Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "SureFerrex",
+        "generic_name": "Ferrous Sulfate",
+        "manufacturer": "The Searle Company",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "SureParaon",
+        "generic_name": "Paracetamol",
+        "manufacturer": "Barrett Hodgson Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "TriFoliex",
+        "generic_name": "Folic Acid",
+        "manufacturer": "Barrett Hodgson Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "TriPantin",
+        "generic_name": "Pantoprazole",
+        "manufacturer": "The Searle Company",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "TriSitain",
+        "generic_name": "Sitagliptin",
+        "manufacturer": "AGP Limited",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "UltraKetovita",
+        "generic_name": "Ketorolac",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "UltraOmepix",
+        "generic_name": "Omeprazole",
+        "manufacturer": "Pfizer Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "UniClopin",
+        "generic_name": "Clopidogrel",
+        "manufacturer": "Martin Dow",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "UniRabevita",
+        "generic_name": "Rabeprazole",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "UniVitaon",
+        "generic_name": "Vitamin C",
+        "manufacturer": "Barrett Hodgson Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "VitaVitaid",
+        "generic_name": "Vitamin D3",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    },
+    {
+        "name": "ZenBiso",
+        "generic_name": "Bisoprolol",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "country": "Pakistan",
+        "is_active": true
+    }
+]

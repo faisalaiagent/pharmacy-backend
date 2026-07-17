@@ -1,0 +1,2192 @@
+[
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Infusion"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Bottle of 100"
+        ],
+        "indications": [
+            "Urinary Tract Infection",
+            "Typhoid Fever",
+            "Bacterial Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Fluoroquinolone",
+        "generic_name": "Ciprofloxacin",
+        "category": "Antibiotics",
+        "sku": "FER-CIP-250-TAB-001",
+        "brand_name": "ACiprvita",
+        "manufacturer": "Ferozsons Laboratories",
+        "strength": "250mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10",
+        "price": 817,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Proton Pump Inhibitor",
+            "H2 Blocker",
+            "Antacid"
+        ],
+        "strengths": [
+            "20mg",
+            "40mg"
+        ],
+        "dosage_forms": [
+            "Capsule",
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "GERD",
+            "Acidity",
+            "Peptic Ulcer"
+        ],
+        "side_effects": [
+            "Headache",
+            "Constipation",
+            "Diarrhea",
+            "Abdominal Pain",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Liver Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Proton Pump Inhibitor",
+        "generic_name": "Esomeprazole",
+        "category": "Gastrointestinal",
+        "sku": "FER-ESO-20-TAB-002",
+        "brand_name": "AceEsomcare",
+        "manufacturer": "Ferozsons Laboratories",
+        "strength": "20mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 20",
+        "price": 471,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "5mg",
+            "10mg",
+            "20mg",
+            "40mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "High Cholesterol"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Statin",
+        "generic_name": "Rosuvastatin",
+        "category": "Heart Care",
+        "sku": "SAN-ROS-20-TAB-003",
+        "brand_name": "AceRosuon",
+        "manufacturer": "Sanofi Pakistan",
+        "strength": "20mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 20",
+        "price": 281,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Bronchodilator",
+            "Antihistamine",
+            "Leukotriene Receptor Antagonist",
+            "Mucolytic"
+        ],
+        "strengths": [
+            "2mg",
+            "4mg",
+            "100mcg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Syrup",
+            "Inhaler",
+            "Respules"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle",
+            "Pack of 1"
+        ],
+        "indications": [
+            "Asthma",
+            "COPD"
+        ],
+        "side_effects": [
+            "Headache",
+            "Dry Mouth",
+            "Dizziness",
+            "Palpitations",
+            "Drowsiness"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Respiratory Depression"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from direct sunlight.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Bronchodilator",
+        "generic_name": "Salbutamol",
+        "category": "Respiratory",
+        "sku": "OBS-SAL-100-INH-004",
+        "brand_name": "AceSalbvita",
+        "manufacturer": "OBS Pakistan",
+        "strength": "100mcg",
+        "dosage_form": "Inhaler",
+        "package_size": "Pack of 1",
+        "price": 1474,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Suspension"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Skin Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Macrolide",
+        "generic_name": "Clarithromycin",
+        "category": "Antibiotics",
+        "sku": "SAN-CLA-500-SUS-005",
+        "brand_name": "AmClarcare",
+        "manufacturer": "Sanofi Pakistan",
+        "strength": "500mg",
+        "dosage_form": "Suspension",
+        "package_size": "100ml Bottle",
+        "price": 356,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Analgesic",
+            "NSAID",
+            "Opioid Analgesic"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Joint Pain",
+            "Back Pain",
+            "Migraine",
+            "Menstrual Pain"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Vomiting",
+            "Abdominal Pain",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Severe Liver Disease",
+            "History of Gastrointestinal Bleeding"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "NSAID",
+        "generic_name": "Naproxen",
+        "category": "Pain Relief",
+        "sku": "GLA-NAP-500-TAB-006",
+        "brand_name": "AmNaprmax",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "500mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 20",
+        "price": 220,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "5mg",
+            "10mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Hypertension",
+            "Angina"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Calcium Channel Blocker",
+        "generic_name": "Amlodipine",
+        "category": "Heart Care",
+        "sku": "GLA-AML-10-TAB-007",
+        "brand_name": "BioAmlo",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "10mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 20",
+        "price": 289,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Analgesic",
+            "NSAID",
+            "Opioid Analgesic"
+        ],
+        "strengths": [
+            "25mg",
+            "50mg",
+            "75mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Injection",
+            "Gel",
+            "Cream"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Tube 20g",
+            "Tube 30g",
+            "Ampoule"
+        ],
+        "indications": [
+            "Joint Pain",
+            "Back Pain",
+            "Muscle Pain",
+            "Arthritis"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Vomiting",
+            "Abdominal Pain",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Severe Liver Disease",
+            "History of Gastrointestinal Bleeding"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "NSAID",
+        "generic_name": "Diclofenac",
+        "category": "Pain Relief",
+        "sku": "AGP-DIC-25-GEL-008",
+        "brand_name": "BioDiclex",
+        "manufacturer": "AGP Limited",
+        "strength": "25mg",
+        "dosage_form": "Gel",
+        "package_size": "Strip of 10",
+        "price": 208,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Proton Pump Inhibitor",
+            "H2 Blocker",
+            "Antacid"
+        ],
+        "strengths": [
+            "10mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Suspension"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Nausea",
+            "Vomiting",
+            "GERD"
+        ],
+        "side_effects": [
+            "Headache",
+            "Constipation",
+            "Diarrhea",
+            "Abdominal Pain",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Liver Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Dopamine Antagonist",
+        "generic_name": "Domperidone",
+        "category": "Gastrointestinal",
+        "sku": "MAR-DOM-10-SUS-009",
+        "brand_name": "BioDompol",
+        "manufacturer": "Martin Dow",
+        "strength": "10mg",
+        "dosage_form": "Suspension",
+        "package_size": "100ml Bottle",
+        "price": 706,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Bronchodilator",
+            "Antihistamine",
+            "Leukotriene Receptor Antagonist",
+            "Mucolytic"
+        ],
+        "strengths": [
+            "5mg",
+            "10mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Syrup"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Seasonal Allergy",
+            "Allergic Rhinitis"
+        ],
+        "side_effects": [
+            "Headache",
+            "Dry Mouth",
+            "Dizziness",
+            "Palpitations",
+            "Drowsiness"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Respiratory Depression"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from direct sunlight.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Antihistamine",
+        "generic_name": "Loratadine",
+        "category": "Respiratory",
+        "sku": "OBS-LOR-10-SYR-010",
+        "brand_name": "BioLoraid",
+        "manufacturer": "OBS Pakistan",
+        "strength": "10mg",
+        "dosage_form": "Syrup",
+        "package_size": "Strip of 10",
+        "price": 1960,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "10mg",
+            "20mg",
+            "40mg",
+            "80mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "High Cholesterol"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Statin",
+        "generic_name": "Atorvastatin",
+        "category": "Heart Care",
+        "sku": "HIG-ATO-10-TAB-011",
+        "brand_name": "CefAtorcare",
+        "manufacturer": "Highnoon Laboratories",
+        "strength": "10mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 20",
+        "price": 1166,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Capsule",
+            "Tablet",
+            "Suspension"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Ear Infection",
+            "Skin Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Penicillin Antibiotic",
+        "generic_name": "Amoxicillin",
+        "category": "Antibiotics",
+        "sku": "PFI-AMO-250-TAB-012",
+        "brand_name": "MaxAmoxon",
+        "manufacturer": "Pfizer Pakistan",
+        "strength": "250mg",
+        "dosage_form": "Tablet",
+        "package_size": "100ml Bottle",
+        "price": 455,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Bronchodilator",
+            "Antihistamine",
+            "Leukotriene Receptor Antagonist",
+            "Mucolytic"
+        ],
+        "strengths": [
+            "4mg",
+            "5mg",
+            "10mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Asthma",
+            "Seasonal Allergy",
+            "Allergic Rhinitis"
+        ],
+        "side_effects": [
+            "Headache",
+            "Dry Mouth",
+            "Dizziness",
+            "Palpitations",
+            "Drowsiness"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Respiratory Depression"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from direct sunlight.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Leukotriene Receptor Antagonist",
+        "generic_name": "Montelukast",
+        "category": "Respiratory",
+        "sku": "GLA-MON-5-TAB-013",
+        "brand_name": "MaxMontcare",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "5mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 20",
+        "price": 1320,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Biguanide",
+            "Sulfonylurea",
+            "DPP-4 Inhibitor",
+            "SGLT2 Inhibitor"
+        ],
+        "strengths": [
+            "30mg",
+            "60mg",
+            "80mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Type 2 Diabetes",
+            "Blood Sugar Control"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Diarrhea",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Severe Kidney Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Sulfonylurea",
+        "generic_name": "Gliclazide",
+        "category": "Diabetes",
+        "sku": "BOS-GLI-30-TAB-014",
+        "brand_name": "MedGlicplus",
+        "manufacturer": "Bosch Pharmaceuticals",
+        "strength": "30mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 20",
+        "price": 510,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Vitamin Supplement",
+            "Mineral Supplement",
+            "Iron Supplement",
+            "Calcium Supplement",
+            "Multivitamin"
+        ],
+        "strengths": [
+            "500mg",
+            "1000mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Oral Sachet"
+        ],
+        "package_sizes": [
+            "Bottle of 30",
+            "Bottle of 60",
+            "Bottle of 100"
+        ],
+        "indications": [
+            "Calcium Deficiency",
+            "General Weakness"
+        ],
+        "side_effects": [
+            "Constipation",
+            "Nausea",
+            "Abdominal Pain",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Mineral Supplement",
+        "generic_name": "Calcium Carbonate",
+        "category": "Vitamins",
+        "sku": "GET-CAL-500-ORA-015",
+        "brand_name": "NeoCalcon",
+        "manufacturer": "Getz Pharma",
+        "strength": "500mg",
+        "dosage_form": "Oral Sachet",
+        "package_size": "Bottle of 100",
+        "price": 860,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Analgesic",
+            "NSAID",
+            "Opioid Analgesic"
+        ],
+        "strengths": [
+            "200mg",
+            "400mg",
+            "600mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Capsule",
+            "Suspension",
+            "Syrup"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Fever",
+            "Headache",
+            "Migraine",
+            "Joint Pain",
+            "Muscle Pain",
+            "Dental Pain"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Vomiting",
+            "Abdominal Pain",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Severe Liver Disease",
+            "History of Gastrointestinal Bleeding"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "NSAID",
+        "generic_name": "Ibuprofen",
+        "category": "Pain Relief",
+        "sku": "HIG-IBU-400-TAB-016",
+        "brand_name": "NeoIbup",
+        "manufacturer": "Highnoon Laboratories",
+        "strength": "400mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10",
+        "price": 185,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Infusion"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Bottle of 100"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Urinary Tract Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Fluoroquinolone",
+        "generic_name": "Levofloxacin",
+        "category": "Antibiotics",
+        "sku": "FER-LEV-500-INF-017",
+        "brand_name": "NeoLevoon",
+        "manufacturer": "Ferozsons Laboratories",
+        "strength": "500mg",
+        "dosage_form": "Infusion",
+        "package_size": "Bottle of 100",
+        "price": 715,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "400mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Eye Drops"
+        ],
+        "package_sizes": [
+            "Strip of 5",
+            "Strip of 10"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Eye Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Fluoroquinolone",
+        "generic_name": "Moxifloxacin",
+        "category": "Antibiotics",
+        "sku": "BAR-MOX-400-EYE-018",
+        "brand_name": "NeoMoxifort",
+        "manufacturer": "Barrett Hodgson Pakistan",
+        "strength": "400mg",
+        "dosage_form": "Eye Drops",
+        "package_size": "Strip of 10",
+        "price": 228,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Bronchodilator",
+            "Antihistamine",
+            "Leukotriene Receptor Antagonist",
+            "Mucolytic"
+        ],
+        "strengths": [
+            "5mg",
+            "10mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Syrup"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Allergic Rhinitis",
+            "Seasonal Allergy"
+        ],
+        "side_effects": [
+            "Headache",
+            "Dry Mouth",
+            "Dizziness",
+            "Palpitations",
+            "Drowsiness"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Respiratory Depression"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from direct sunlight.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Antihistamine",
+        "generic_name": "Cetirizine",
+        "category": "Respiratory",
+        "sku": "HIG-CET-10-SYR-019",
+        "brand_name": "NovaCetifort",
+        "manufacturer": "Highnoon Laboratories",
+        "strength": "10mg",
+        "dosage_form": "Syrup",
+        "package_size": "Strip of 10",
+        "price": 1766,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "25mg",
+            "50mg",
+            "100mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Hypertension",
+            "Heart Failure"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "ARB",
+        "generic_name": "Losartan",
+        "category": "Heart Care",
+        "sku": "FER-LOS-100-TAB-020",
+        "brand_name": "NovaLosaplus",
+        "manufacturer": "Ferozsons Laboratories",
+        "strength": "100mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10",
+        "price": 416,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Biguanide",
+            "Sulfonylurea",
+            "DPP-4 Inhibitor",
+            "SGLT2 Inhibitor"
+        ],
+        "strengths": [
+            "10mg",
+            "25mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Type 2 Diabetes",
+            "Blood Sugar Control"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Diarrhea",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Severe Kidney Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "SGLT2 Inhibitor",
+        "generic_name": "Empagliflozin",
+        "category": "Diabetes",
+        "sku": "OBS-EMP-10-TAB-021",
+        "brand_name": "PanEmpafort",
+        "manufacturer": "OBS Pakistan",
+        "strength": "10mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 20",
+        "price": 1102,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Biguanide",
+            "Sulfonylurea",
+            "DPP-4 Inhibitor",
+            "SGLT2 Inhibitor"
+        ],
+        "strengths": [
+            "1mg",
+            "2mg",
+            "4mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Type 2 Diabetes",
+            "Blood Sugar Control"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Diarrhea",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Severe Kidney Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Sulfonylurea",
+        "generic_name": "Glimepiride",
+        "category": "Diabetes",
+        "sku": "ABB-GLI-1-TAB-022",
+        "brand_name": "PanGlimfort",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "1mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10",
+        "price": 776,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Biguanide",
+            "Sulfonylurea",
+            "DPP-4 Inhibitor",
+            "SGLT2 Inhibitor"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg",
+            "850mg",
+            "1000mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20",
+            "Bottle of 60"
+        ],
+        "indications": [
+            "Type 2 Diabetes",
+            "Blood Sugar Control"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Diarrhea",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Severe Kidney Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Biguanide",
+        "generic_name": "Metformin",
+        "category": "Diabetes",
+        "sku": "OBS-MET-1000-TAB-023",
+        "brand_name": "PanMetfix",
+        "manufacturer": "OBS Pakistan",
+        "strength": "1000mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10",
+        "price": 1187,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "25mg",
+            "50mg",
+            "100mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Hypertension",
+            "Angina",
+            "Arrhythmia"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Beta Blocker",
+        "generic_name": "Metoprolol",
+        "category": "Heart Care",
+        "sku": "AGP-MET-100-TAB-024",
+        "brand_name": "PanMetoon",
+        "manufacturer": "AGP Limited",
+        "strength": "100mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 20",
+        "price": 349,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Suspension"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Skin Infection",
+            "Urinary Tract Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Penicillin Antibiotic",
+        "generic_name": "Co-Amoxiclav",
+        "category": "Antibiotics",
+        "sku": "HIL-CO--250-SUS-025",
+        "brand_name": "ProCoamvita",
+        "manufacturer": "Hilton Pharma",
+        "strength": "250mg",
+        "dosage_form": "Suspension",
+        "package_size": "100ml Bottle",
+        "price": 899,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "40mg",
+            "80mg",
+            "160mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Hypertension",
+            "Heart Failure"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "ARB",
+        "generic_name": "Valsartan",
+        "category": "Heart Care",
+        "sku": "SAM-VAL-160-TAB-026",
+        "brand_name": "ProValsfort",
+        "manufacturer": "Sami Pharmaceuticals",
+        "strength": "160mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 20",
+        "price": 918,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "200mg",
+            "400mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Capsule",
+            "Suspension"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Typhoid Fever",
+            "Respiratory Infection",
+            "Urinary Tract Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Cephalosporin",
+        "generic_name": "Cefixime",
+        "category": "Antibiotics",
+        "sku": "HIG-CEF-400-CAP-027",
+        "brand_name": "SafeCefifort",
+        "manufacturer": "Highnoon Laboratories",
+        "strength": "400mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 10",
+        "price": 787,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Capsule",
+            "Suspension"
+        ],
+        "package_sizes": [
+            "Strip of 3",
+            "Strip of 6",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Ear Infection",
+            "Skin Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Macrolide",
+        "generic_name": "Azithromycin",
+        "category": "Antibiotics",
+        "sku": "SAM-AZI-500-CAP-028",
+        "brand_name": "SureAzitex",
+        "manufacturer": "Sami Pharmaceuticals",
+        "strength": "500mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 3",
+        "price": 651,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "500mg",
+            "1000mg"
+        ],
+        "dosage_forms": [
+            "Injection"
+        ],
+        "package_sizes": [
+            "Vial"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Typhoid Fever",
+            "Bacterial Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Cephalosporin",
+        "generic_name": "Ceftriaxone",
+        "category": "Antibiotics",
+        "sku": "GET-CEF-1000-INJ-029",
+        "brand_name": "SureCefton",
+        "manufacturer": "Getz Pharma",
+        "strength": "1000mg",
+        "dosage_form": "Injection",
+        "package_size": "Vial",
+        "price": 170,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Penicillin Antibiotic",
+            "Cephalosporin",
+            "Macrolide",
+            "Fluoroquinolone"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Suspension",
+            "Injection"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Vial"
+        ],
+        "indications": [
+            "Respiratory Infection",
+            "Ear Infection",
+            "Skin Infection"
+        ],
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Vomiting",
+            "Skin Rash"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C."
+        ],
+        "therapeutic_class": "Cephalosporin",
+        "generic_name": "Cefuroxime",
+        "category": "Antibiotics",
+        "sku": "PFI-CEF-250-TAB-030",
+        "brand_name": "SureCefuid",
+        "manufacturer": "Pfizer Pakistan",
+        "strength": "250mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10",
+        "price": 615,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Vitamin Supplement",
+            "Mineral Supplement",
+            "Iron Supplement",
+            "Calcium Supplement",
+            "Multivitamin"
+        ],
+        "strengths": [
+            "200mg",
+            "325mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Syrup"
+        ],
+        "package_sizes": [
+            "Bottle of 30",
+            "Bottle of 60",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Iron Deficiency",
+            "General Weakness"
+        ],
+        "side_effects": [
+            "Constipation",
+            "Nausea",
+            "Abdominal Pain",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Iron Supplement",
+        "generic_name": "Ferrous Sulfate",
+        "category": "Vitamins",
+        "sku": "THE-FER-200-SYR-031",
+        "brand_name": "SureFerrex",
+        "manufacturer": "The Searle Company",
+        "strength": "200mg",
+        "dosage_form": "Syrup",
+        "package_size": "100ml Bottle",
+        "price": 2328,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Analgesic",
+            "NSAID",
+            "Opioid Analgesic"
+        ],
+        "strengths": [
+            "250mg",
+            "500mg",
+            "650mg",
+            "1000mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Syrup",
+            "Suspension",
+            "Drops"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20",
+            "Bottle of 100",
+            "60ml Bottle",
+            "100ml Bottle"
+        ],
+        "indications": [
+            "Headache",
+            "Fever",
+            "Body Pain",
+            "Muscle Pain",
+            "Joint Pain",
+            "Dental Pain"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Vomiting",
+            "Abdominal Pain",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Severe Liver Disease",
+            "History of Gastrointestinal Bleeding"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Analgesic",
+        "generic_name": "Paracetamol",
+        "category": "Pain Relief",
+        "sku": "BAR-PAR-1000-TAB-032",
+        "brand_name": "SureParaon",
+        "manufacturer": "Barrett Hodgson Pakistan",
+        "strength": "1000mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10",
+        "price": 186,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Vitamin Supplement",
+            "Mineral Supplement",
+            "Iron Supplement",
+            "Calcium Supplement",
+            "Multivitamin"
+        ],
+        "strengths": [
+            "400mcg",
+            "5mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Bottle of 30",
+            "Bottle of 60"
+        ],
+        "indications": [
+            "Pregnancy Supplements",
+            "Iron Deficiency"
+        ],
+        "side_effects": [
+            "Constipation",
+            "Nausea",
+            "Abdominal Pain",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Folate Supplement",
+        "generic_name": "Folic Acid",
+        "category": "Vitamins",
+        "sku": "BAR-FOL-5-TAB-033",
+        "brand_name": "TriFoliex",
+        "manufacturer": "Barrett Hodgson Pakistan",
+        "strength": "5mg",
+        "dosage_form": "Tablet",
+        "package_size": "Bottle of 30",
+        "price": 2170,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Proton Pump Inhibitor",
+            "H2 Blocker",
+            "Antacid"
+        ],
+        "strengths": [
+            "20mg",
+            "40mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Injection"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Vial"
+        ],
+        "indications": [
+            "GERD",
+            "Acidity",
+            "Peptic Ulcer"
+        ],
+        "side_effects": [
+            "Headache",
+            "Constipation",
+            "Diarrhea",
+            "Abdominal Pain",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Liver Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Proton Pump Inhibitor",
+        "generic_name": "Pantoprazole",
+        "category": "Gastrointestinal",
+        "sku": "THE-PAN-20-INJ-034",
+        "brand_name": "TriPantin",
+        "manufacturer": "The Searle Company",
+        "strength": "20mg",
+        "dosage_form": "Injection",
+        "package_size": "Vial",
+        "price": 150,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Biguanide",
+            "Sulfonylurea",
+            "DPP-4 Inhibitor",
+            "SGLT2 Inhibitor"
+        ],
+        "strengths": [
+            "25mg",
+            "50mg",
+            "100mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Type 2 Diabetes",
+            "Blood Sugar Control"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Diarrhea",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Severe Kidney Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "DPP-4 Inhibitor",
+        "generic_name": "Sitagliptin",
+        "category": "Diabetes",
+        "sku": "AGP-SIT-25-TAB-035",
+        "brand_name": "TriSitain",
+        "manufacturer": "AGP Limited",
+        "strength": "25mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 20",
+        "price": 1056,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Analgesic",
+            "NSAID",
+            "Opioid Analgesic"
+        ],
+        "strengths": [
+            "10mg",
+            "30mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Injection"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Ampoule"
+        ],
+        "indications": [
+            "Postoperative Pain",
+            "Dental Pain",
+            "Severe Pain"
+        ],
+        "side_effects": [
+            "Nausea",
+            "Vomiting",
+            "Abdominal Pain",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Severe Liver Disease",
+            "History of Gastrointestinal Bleeding"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "NSAID",
+        "generic_name": "Ketorolac",
+        "category": "Pain Relief",
+        "sku": "GLA-KET-30-TAB-036",
+        "brand_name": "UltraKetovita",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "30mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10",
+        "price": 142,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Proton Pump Inhibitor",
+            "H2 Blocker",
+            "Antacid"
+        ],
+        "strengths": [
+            "20mg",
+            "40mg"
+        ],
+        "dosage_forms": [
+            "Capsule",
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "GERD",
+            "Acidity",
+            "Peptic Ulcer"
+        ],
+        "side_effects": [
+            "Headache",
+            "Constipation",
+            "Diarrhea",
+            "Abdominal Pain",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Liver Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Proton Pump Inhibitor",
+        "generic_name": "Omeprazole",
+        "category": "Gastrointestinal",
+        "sku": "PFI-OME-40-CAP-037",
+        "brand_name": "UltraOmepix",
+        "manufacturer": "Pfizer Pakistan",
+        "strength": "40mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 20",
+        "price": 504,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "75mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Heart Attack Prevention",
+            "Stroke Prevention"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Antiplatelet",
+        "generic_name": "Clopidogrel",
+        "category": "Heart Care",
+        "sku": "MAR-CLO-75-TAB-038",
+        "brand_name": "UniClopin",
+        "manufacturer": "Martin Dow",
+        "strength": "75mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 20",
+        "price": 921,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Proton Pump Inhibitor",
+            "H2 Blocker",
+            "Antacid"
+        ],
+        "strengths": [
+            "20mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "GERD",
+            "Acidity"
+        ],
+        "side_effects": [
+            "Headache",
+            "Constipation",
+            "Diarrhea",
+            "Abdominal Pain",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient",
+            "Severe Liver Disease"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Proton Pump Inhibitor",
+        "generic_name": "Rabeprazole",
+        "category": "Gastrointestinal",
+        "sku": "GLA-RAB-20-TAB-039",
+        "brand_name": "UniRabevita",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "20mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10",
+        "price": 791,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Vitamin Supplement",
+            "Mineral Supplement",
+            "Iron Supplement",
+            "Calcium Supplement",
+            "Multivitamin"
+        ],
+        "strengths": [
+            "500mg",
+            "1000mg"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Capsule",
+            "Oral Sachet"
+        ],
+        "package_sizes": [
+            "Bottle of 30",
+            "Bottle of 60",
+            "Bottle of 100"
+        ],
+        "indications": [
+            "Vitamin Deficiency",
+            "Immune Support"
+        ],
+        "side_effects": [
+            "Constipation",
+            "Nausea",
+            "Abdominal Pain",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Vitamin",
+        "generic_name": "Vitamin C",
+        "category": "Vitamins",
+        "sku": "BAR-VIT-500-CAP-040",
+        "brand_name": "UniVitaon",
+        "manufacturer": "Barrett Hodgson Pakistan",
+        "strength": "500mg",
+        "dosage_form": "Capsule",
+        "package_size": "Bottle of 30",
+        "price": 1370,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "Vitamin Supplement",
+            "Mineral Supplement",
+            "Iron Supplement",
+            "Calcium Supplement",
+            "Multivitamin"
+        ],
+        "strengths": [
+            "400IU",
+            "1000IU",
+            "2000IU",
+            "5000IU"
+        ],
+        "dosage_forms": [
+            "Tablet",
+            "Capsule",
+            "Drops"
+        ],
+        "package_sizes": [
+            "Bottle of 30",
+            "Bottle of 60"
+        ],
+        "indications": [
+            "Vitamin Deficiency",
+            "Calcium Deficiency"
+        ],
+        "side_effects": [
+            "Constipation",
+            "Nausea",
+            "Abdominal Pain",
+            "Loss of Appetite"
+        ],
+        "contraindications": [
+            "Hypersensitivity to active ingredient"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Protect from moisture.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Vitamin",
+        "generic_name": "Vitamin D3",
+        "category": "Vitamins",
+        "sku": "GLA-VIT-2000-TAB-041",
+        "brand_name": "VitaVitaid",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "2000IU",
+        "dosage_form": "Tablet",
+        "package_size": "Bottle of 60",
+        "price": 1204,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active"
+    },
+    {
+        "therapeutic_classes": [
+            "ACE Inhibitor",
+            "ARB",
+            "Beta Blocker",
+            "Calcium Channel Blocker",
+            "Statin"
+        ],
+        "strengths": [
+            "2.5mg",
+            "5mg",
+            "10mg"
+        ],
+        "dosage_forms": [
+            "Tablet"
+        ],
+        "package_sizes": [
+            "Strip of 10",
+            "Strip of 20"
+        ],
+        "indications": [
+            "Hypertension",
+            "Heart Failure",
+            "Arrhythmia"
+        ],
+        "side_effects": [
+            "Dizziness",
+            "Hypotension",
+            "Fatigue",
+            "Headache"
+        ],
+        "contraindications": [
+            "Heart Block",
+            "Severe Heart Failure",
+            "Pregnancy (when applicable)"
+        ],
+        "storage": [
+            "Store below 30°C.",
+            "Keep out of reach of children."
+        ],
+        "therapeutic_class": "Beta Blocker",
+        "generic_name": "Bisoprolol",
+        "category": "Heart Care",
+        "sku": "ABB-BIS-10-TAB-042",
+        "brand_name": "ZenBiso",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "10mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 20",
+        "price": 999,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active"
+    }
+]
