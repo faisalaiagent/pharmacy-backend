@@ -44,7 +44,7 @@
         "strength": "250mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 10",
-        "price": 817,
+        "price": 350,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -97,7 +97,7 @@
         "strength": "20mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 20",
-        "price": 471,
+        "price": 420,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -150,7 +150,7 @@
         "strength": "20mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 20",
-        "price": 281,
+        "price": 380,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -207,7 +207,7 @@
         "strength": "100mcg",
         "dosage_form": "Inhaler",
         "package_size": "Pack of 1",
-        "price": 1474,
+        "price": 280,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -256,7 +256,7 @@
         "strength": "500mg",
         "dosage_form": "Suspension",
         "package_size": "100ml Bottle",
-        "price": 356,
+        "price": 340,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -307,7 +307,7 @@
         "strength": "500mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 20",
-        "price": 220,
+        "price": 180,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -359,7 +359,7 @@
         "strength": "10mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 20",
-        "price": 289,
+        "price": 260,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -416,7 +416,7 @@
         "strength": "25mg",
         "dosage_form": "Gel",
         "package_size": "Strip of 10",
-        "price": 208,
+        "price": 90,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -468,7 +468,7 @@
         "strength": "10mg",
         "dosage_form": "Suspension",
         "package_size": "100ml Bottle",
-        "price": 706,
+        "price": 180,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -521,7 +521,7 @@
         "strength": "10mg",
         "dosage_form": "Syrup",
         "package_size": "Strip of 10",
-        "price": 1960,
+        "price": 65,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -574,7 +574,7 @@
         "strength": "10mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 20",
-        "price": 1166,
+        "price": 650,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -625,7 +625,7 @@
         "strength": "250mg",
         "dosage_form": "Tablet",
         "package_size": "100ml Bottle",
-        "price": 455,
+        "price": 280,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -679,7 +679,7 @@
         "strength": "5mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 20",
-        "price": 1320,
+        "price": 480,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -728,7 +728,7 @@
         "strength": "30mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 20",
-        "price": 510,
+        "price": 220,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -781,7 +781,7 @@
         "strength": "500mg",
         "dosage_form": "Oral Sachet",
         "package_size": "Bottle of 100",
-        "price": 860,
+        "price": 380,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -839,7 +839,7 @@
         "strength": "400mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 10",
-        "price": 185,
+        "price": 69,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -888,7 +888,7 @@
         "strength": "500mg",
         "dosage_form": "Infusion",
         "package_size": "Bottle of 100",
-        "price": 715,
+        "price": 310,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -936,7 +936,7 @@
         "strength": "400mg",
         "dosage_form": "Eye Drops",
         "package_size": "Strip of 10",
-        "price": 228,
+        "price": 260,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -989,7 +989,7 @@
         "strength": "10mg",
         "dosage_form": "Syrup",
         "package_size": "Strip of 10",
-        "price": 1766,
+        "price": 45,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -1042,7 +1042,7 @@
         "strength": "100mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 10",
-        "price": 416,
+        "price": 210,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -1090,7 +1090,7 @@
         "strength": "10mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 20",
-        "price": 1102,
+        "price": 950,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -1139,7 +1139,7 @@
         "strength": "1mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 10",
-        "price": 776,
+        "price": 380,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -1190,7 +1190,7 @@
         "strength": "1000mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 10",
-        "price": 1187,
+        "price": 180,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -1244,7 +1244,7 @@
         "strength": "100mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 20",
-        "price": 349,
+        "price": 160,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -1294,7 +1294,7 @@
         "strength": "250mg",
         "dosage_form": "Suspension",
         "package_size": "100ml Bottle",
-        "price": 899,
+        "price": 550,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -1347,7 +1347,7 @@
         "strength": "160mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 20",
-        "price": 918,
+        "price": 420,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -1398,7 +1398,7 @@
         "strength": "400mg",
         "dosage_form": "Capsule",
         "package_size": "Strip of 10",
-        "price": 787,
+        "price": 380,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -1450,7 +1450,7 @@
         "strength": "500mg",
         "dosage_form": "Capsule",
         "package_size": "Strip of 3",
-        "price": 651,
+        "price": 420,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -1498,7 +1498,7 @@
         "strength": "1000mg",
         "dosage_form": "Injection",
         "package_size": "Vial",
-        "price": 170,
+        "price": 220,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -1549,7 +1549,7 @@
         "strength": "250mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 10",
-        "price": 615,
+        "price": 480,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -1602,7 +1602,7 @@
         "strength": "200mg",
         "dosage_form": "Syrup",
         "package_size": "100ml Bottle",
-        "price": 2328,
+        "price": 340,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -1663,7 +1663,7 @@
         "strength": "1000mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 10",
-        "price": 186,
+        "price": 45,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -1714,7 +1714,7 @@
         "strength": "5mg",
         "dosage_form": "Tablet",
         "package_size": "Bottle of 30",
-        "price": 2170,
+        "price": 180,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -1767,7 +1767,7 @@
         "strength": "20mg",
         "dosage_form": "Injection",
         "package_size": "Vial",
-        "price": 150,
+        "price": 190,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -1816,7 +1816,7 @@
         "strength": "25mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 20",
-        "price": 1056,
+        "price": 680,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -1867,7 +1867,7 @@
         "strength": "30mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 10",
-        "price": 142,
+        "price": 160,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -1920,7 +1920,7 @@
         "strength": "40mg",
         "dosage_form": "Capsule",
         "package_size": "Strip of 20",
-        "price": 504,
+        "price": 380,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -1971,7 +1971,7 @@
         "strength": "75mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 20",
-        "price": 921,
+        "price": 520,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
@@ -2021,7 +2021,7 @@
         "strength": "20mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 10",
-        "price": 791,
+        "price": 340,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -2075,7 +2075,7 @@
         "strength": "500mg",
         "dosage_form": "Capsule",
         "package_size": "Bottle of 30",
-        "price": 1370,
+        "price": 220,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -2130,7 +2130,7 @@
         "strength": "2000IU",
         "dosage_form": "Tablet",
         "package_size": "Bottle of 60",
-        "price": 1204,
+        "price": 380,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active"
@@ -2184,7 +2184,7 @@
         "strength": "10mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 20",
-        "price": 999,
+        "price": 260,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active"
