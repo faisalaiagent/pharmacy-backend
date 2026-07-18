@@ -38,7 +38,7 @@ class ManufacturerAdmin(admin.ModelAdmin):
 class ProductAdmin(admin.ModelAdmin):
     list_display = (
         "name", "sku", "product_type", "price", "discount_price",
-        "package_size ", "stock_status", "requires_prescription", "is_active", "is_featured"
+        "package_size", "stock_status", "requires_prescription", "is_active", "is_featured"
     )
     list_filter = (
         "product_type", "stock_status", "requires_prescription",
