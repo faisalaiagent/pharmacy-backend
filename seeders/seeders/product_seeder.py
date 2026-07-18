@@ -339,6 +339,9 @@ class ProductSeeder:
             "dosage_form":
                 profile["dosage_form"],
 
+            "package_size":
+                profile.get("package_size", ""),    
+
             "brand": brand,
 
             "manufacturer": manufacturer,

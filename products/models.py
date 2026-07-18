@@ -180,6 +180,12 @@ class Product(SoftDeleteModel):
         max_length=100, blank=True,
         help_text="e.g. Tablet, Syrup, Injection, Capsule, Cream"
     )
+    package_size = models.CharField(
+        max_length=100,
+        blank=True,
+        default="",
+        help_text="e.g. 'Strip of 10', 'Bottle of 100ml', 'Box of 30 Capsules'"
+    )
 
     brand = models.ForeignKey(
         Brand, on_delete=models.SET_NULL, null=True, blank=True,
