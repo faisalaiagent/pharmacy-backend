@@ -79,7 +79,8 @@ class ProductListSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Product
-        fields = ("id", "name", "slug", "sku", "generic_name", "strength", "package_size",
+        fields = ("id", "name", "slug", "sku", "generic_name", "strength",
+                  "package_size", "original_pack_quantity", "units_per_strip", "sale_unit_type",
                   "product_type", "brand_name", "categories", "primary_image", "short_description",
                   "price", "discount_price", "final_price", "discount_percentage",
                   "stock_status", "requires_prescription",
@@ -103,7 +104,8 @@ class ProductDetailSerializer(serializers.ModelSerializer):
     class Meta:
         model = Product
         fields = ("id", "name", "slug", "sku", "product_type",
-                  "generic_name", "strength", "dosage_form", "package_size",
+                  "generic_name", "strength", "dosage_form",
+                  "package_size", "original_pack_quantity", "units_per_strip", "sale_unit_type",
                   "brand", "manufacturer", "categories", "images",
                   "short_description", "description", "ingredients",
                   "usage_instructions", "dosage_information", "side_effects",
@@ -116,7 +118,6 @@ class ProductDetailSerializer(serializers.ModelSerializer):
                   "is_featured", "is_best_seller", "expiry_date",
                   "meta_title", "meta_description",
                   "inventory", "created_at")
-
 
 class ProductWriteSerializer(serializers.ModelSerializer):
     """Admin create/update — accepts IDs for FK/M2M fields."""

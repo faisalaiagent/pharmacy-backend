@@ -180,12 +180,30 @@ class Product(SoftDeleteModel):
         max_length=100, blank=True,
         help_text="e.g. Tablet, Syrup, Injection, Capsule, Cream"
     )
-    package_size = models.CharField(
-        max_length=100,
-        blank=True,
-        default="",
-        help_text="e.g. 'Strip of 10', 'Bottle of 100ml', 'Box of 30 Capsules'"
+    # Actual/original manufacturer packaging — the true physical pack as it left the factory
+    original_pack_quantity = models.PositiveIntegerField(
+        null=True, blank=True,
+        help_text="Total tablets/capsules/units in the manufacturer's original pack "
+                   "(e.g. 1000 for a box containing 100 strips of 10)"
     )
+    units_per_strip = models.PositiveIntegerField(
+        null=True, blank=True, default=10,
+        help_text="Tablets/capsules per strip, if the product is strip-packaged (e.g. 10)"
+    )
+
+    SALE_UNIT_STRIP = "STRIP"
+    SALE_UNIT_FULL_PACK = "FULL_PACK"
+    SALE_UNIT_CHOICES = [
+        (SALE_UNIT_STRIP, "Strip"),
+        (SALE_UNIT_FULL_PACK, "Full Pack"),
+    ]
+    sale_unit_type = models.CharField(
+        max_length=20, choices=SALE_UNIT_CHOICES, blank=True,
+        help_text="Auto-computed: packs of 100+ units sell per strip; under 100 sell as full pack."
+    )
+
+    # Human-readable, auto-generated from the fields above (e.g. "Strip of 10")
+    package_size = models.CharField(max_length=100, blank=True, default="")
 
     brand = models.ForeignKey(
         Brand, on_delete=models.SET_NULL, null=True, blank=True,
@@ -273,9 +291,30 @@ class Product(SoftDeleteModel):
     def __str__(self):
         return f"{self.name} ({self.sku})"
 
+    def determine_sale_unit(self):
+        """
+        Business rule:
+        - Original pack of 100+ tablets/capsules -> sold per strip
+        - Original pack under 100 -> sold as the full pack
+        """
+        if self.original_pack_quantity and self.original_pack_quantity >= 100:
+            return self.SALE_UNIT_STRIP
+        return self.SALE_UNIT_FULL_PACK
+
     def save(self, *args, **kwargs):
         if not self.slug:
             self.slug = slugify(self.name)[:280] + "-" + str(self.sku)[:15]
+
+        if self.original_pack_quantity:
+            self.sale_unit_type = self.determine_sale_unit()
+            if self.sale_unit_type == self.SALE_UNIT_STRIP and self.units_per_strip:
+                self.package_size = (
+                    f"Strip of {self.units_per_strip} "
+                    f"(from box of {self.original_pack_quantity})"
+                )
+            else:
+                self.package_size = f"Full Pack of {self.original_pack_quantity}"
+
         super().save(*args, **kwargs)
 
     @property

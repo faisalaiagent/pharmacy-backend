@@ -38,7 +38,8 @@ class ManufacturerAdmin(admin.ModelAdmin):
 class ProductAdmin(admin.ModelAdmin):
     list_display = (
         "name", "sku", "product_type", "price", "discount_price",
-        "package_size", "stock_status", "requires_prescription", "is_active", "is_featured"
+        "original_pack_quantity", "sale_unit_type", "package_size",
+        "stock_status", "requires_prescription", "is_active", "is_featured"
     )
     list_filter = (
         "product_type", "stock_status", "requires_prescription",
@@ -48,9 +49,17 @@ class ProductAdmin(admin.ModelAdmin):
     prepopulated_fields = {"slug": ("name",)}
     inlines = [ProductImageInline, InventoryInline]
     filter_horizontal = ("categories",)
+    readonly_fields = ("sale_unit_type", "package_size")
     fieldsets = (
         ("Identity", {"fields": ("name", "slug", "sku", "product_type", "brand", "manufacturer", "categories")}),
         ("Pharma details", {"fields": ("generic_name", "strength", "dosage_form")}),
+        ("Packaging", {"fields": (
+            "original_pack_quantity", "units_per_strip", "sale_unit_type", "package_size"
+        ), "description": (
+            "Enter the manufacturer's true original pack quantity and units per strip. "
+            "Sale unit and display package size are auto-computed on save: "
+            "packs of 100+ units sell per strip, packs under 100 sell as the full pack."
+        )}),
         ("Content", {"fields": (
             "short_description", "description", "ingredients", "usage_instructions",
             "dosage_information", "side_effects", "precautions", "contraindications",
