@@ -322,9 +322,9 @@ class ProductSeeder:
 
         return {
             "original_pack_quantity":
-                self._infer_pack_quantity(profile.get("package_size", "")),
+                profile.get("original_pack_quantity"),
             "units_per_strip":
-                10,        
+                profile.get("units_per_strip", 10),        
 
             # --------------------------------------------------
             # Identity
