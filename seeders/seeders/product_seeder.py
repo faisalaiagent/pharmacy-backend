@@ -321,6 +321,10 @@ class ProductSeeder:
         generic = profile["generic_name"]
 
         return {
+            "original_pack_quantity":
+                self._infer_pack_quantity(profile.get("package_size", "")),
+            "units_per_strip":
+                10,        
 
             # --------------------------------------------------
             # Identity
@@ -478,6 +482,20 @@ class ProductSeeder:
                     f"online."
                 ),
         }
+    
+    def _infer_pack_quantity(self, package_size_str):
+        """Maps known package_size text to a realistic original manufacturer pack size."""
+        mapping = {
+            "Strip of 10": 100,    # sold as strip, but original box = 100 (10 strips x 10 tabs)
+            "Strip of 20": 200,
+            "Strip of 3": 30,
+            "Bottle of 30": 30,
+            "Bottle of 60": 60,
+            "Bottle of 100": 100,
+            "Bottle of 100ml": 100,
+            "Vial": 1,
+        }
+        return mapping.get(package_size_str, 100)
         
     @transaction.atomic
     def seed_product(
