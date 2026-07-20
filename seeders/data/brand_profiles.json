@@ -251,7 +251,7 @@
         "package_size": "Strip of 10 (Box of 30)",
         "original_pack_quantity": 30,
         "units_per_strip": 10,
-        "price": 390,
+        "price": 267,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active",
@@ -281,7 +281,7 @@
         "package_size": "Strip of 10 (Box of 10)",
         "original_pack_quantity": 10,
         "units_per_strip": 10,
-        "price": 450,
+        "price": 400,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -341,7 +341,7 @@
         "package_size": "Strip of 10 (Box of 10)",
         "original_pack_quantity": 10,
         "units_per_strip": 10,
-        "price": 385,
+        "price": 200,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -371,7 +371,7 @@
         "package_size": "Strip of 10 (Box of 100)",
         "original_pack_quantity": 100,
         "units_per_strip": 10,
-        "price": 140,
+        "price": 117,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active",
@@ -398,7 +398,7 @@
         "package_size": "Strip of 5 (Box of 15)",
         "original_pack_quantity": 15,
         "units_per_strip": 5,
-        "price": 201,
+        "price": 52,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -415,6 +415,95 @@
         "storage": [
             "Store below 25°C",
             "Keep in a secure location (controlled analgesic)"
+        ]
+    },
+    {
+        "therapeutic_class": "3rd Gen Cephalosporin Antibiotic",
+        "generic_name": "Cefixime",
+        "category": "Antibiotics",
+        "sku": "BHP-CEF-400-CAP-015",
+        "brand_name": "Cefspan",
+        "manufacturer": "Barrett Hodgson Pakistan",
+        "strength": "400mg",
+        "dosage_form": "Capsule",
+        "package_size": "Bottle of 5",
+        "original_pack_quantity": 5,
+        "units_per_strip": 5,
+        "price": 730,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Abdominal pain"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to cephalosporins",
+            "History of C. difficile colitis"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from heat and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "HMG-CoA Reductase Inhibitor (Statin)",
+        "generic_name": "Simvastatin",
+        "category": "Heart Care",
+        "sku": "OBS-ZOC-20-TAB-016",
+        "brand_name": "Zocor",
+        "manufacturer": "OBS Pakistan",
+        "strength": "20mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 646,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Muscle pain",
+            "Headache",
+            "Digestive issues"
+        ],
+        "contraindications": [
+            "Active liver disease",
+            "Pregnancy and breastfeeding",
+            "Concurrent strong CYP3A4 inhibitors"
+        ],
+        "storage": [
+            "Store below 30°C",
+            "Protect from light"
+        ]
+    },
+    {
+        "therapeutic_class": "Vitamin B12 Analog",
+        "generic_name": "Mecobalamin",
+        "category": "Vitamins",
+        "sku": "BSC-QBA-500-TAB-017",
+        "brand_name": "Qbal",
+        "manufacturer": "Bosch Pharmaceuticals",
+        "strength": "500mcg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 15 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 15,
+        "price": 500,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Mild diarrhea",
+            "Itching (rare)"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to cobalamin"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light"
         ]
     }
 ]
