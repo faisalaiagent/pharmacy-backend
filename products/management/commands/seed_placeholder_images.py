@@ -24,7 +24,7 @@ class Command(BaseCommand):
             name = product.name.replace(" ", "+")
             strength = (product.strength or "").replace(" ", "").replace("/", "-")
             url = (
-                f"https://placehold.co/500x500/{color}/ffffff"
+                f"https://placehold.co/500x500/{color}/ffffff/png"
                 f"?font=roboto&text={name}+{strength}"
             )
 
