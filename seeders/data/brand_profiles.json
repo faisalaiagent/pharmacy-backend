@@ -71,7 +71,7 @@
         "package_size": "Strip of 7 (Box of 21)",
         "original_pack_quantity": 21,
         "units_per_strip": 7,
-        "price": 861,
+        "price": 310,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -128,10 +128,10 @@
         "manufacturer": "GlaxoSmithKline Pakistan",
         "strength": "625mg",
         "dosage_form": "Tablet",
-        "package_size": "Strip of 6 (Box of 12)",
-        "original_pack_quantity": 12,
+        "package_size": "Strip of 6 (Box of 6)",
+        "original_pack_quantity": 6,
         "units_per_strip": 6,
-        "price": 565,
+        "price": 282,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -237,6 +237,184 @@
         "storage": [
             "Store below 25°C",
             "Protect from light"
+        ]
+    },
+    {
+        "therapeutic_class": "Antihistamine",
+        "generic_name": "Cetirizine",
+        "category": "Respiratory",
+        "sku": "AGP-RIG-10-TAB-009",
+        "brand_name": "Rigix",
+        "manufacturer": "AGP Limited",
+        "strength": "10mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 390,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Drowsiness",
+            "Dry mouth",
+            "Fatigue"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to cetirizine or hydroxyzine",
+            "Severe renal impairment"
+        ],
+        "storage": [
+            "Store below 30°C",
+            "Protect from moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Fluoroquinolone Antibiotic",
+        "generic_name": "Ciprofloxacin",
+        "category": "Antibiotics",
+        "sku": "HIL-HIF-500-TAB-010",
+        "brand_name": "Hiflox",
+        "manufacturer": "Hilton Pharma",
+        "strength": "500mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 450,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Nausea",
+            "Diarrhea",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to quinolones",
+            "Myasthenia gravis"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep in original packaging"
+        ]
+    },
+    {
+        "therapeutic_class": "Mucosal Protectant",
+        "generic_name": "Sucralfate",
+        "category": "Gastrointestinal",
+        "sku": "HGN-ULS-1G-TAB-011",
+        "brand_name": "Ulsanic",
+        "manufacturer": "Highnoon Laboratories",
+        "strength": "1gm",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 143,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Constipation",
+            "Dry mouth",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to sucralfate",
+            "Chronic renal failure"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Macrolide Antibiotic",
+        "generic_name": "Clarithromycin",
+        "category": "Antibiotics",
+        "sku": "FRZ-KLA-250-TAB-012",
+        "brand_name": "Clarion",
+        "manufacturer": "Ferozsons Laboratories",
+        "strength": "250mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 385,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Metallic taste",
+            "Nausea",
+            "Diarrhea"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to macrolides",
+            "Concurrent use with certain statins"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Vitamin B Complex",
+        "generic_name": "Vitamin B Complex",
+        "category": "Vitamins",
+        "sku": "MDW-NEU-STD-TAB-013",
+        "brand_name": "Neurobion",
+        "manufacturer": "Martin Dow",
+        "strength": "Standard",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 100)",
+        "original_pack_quantity": 100,
+        "units_per_strip": 10,
+        "price": 140,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Mild stomach upset (rare)"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any B-vitamin component"
+        ],
+        "storage": [
+            "Store below 30°C",
+            "Protect from light"
+        ]
+    },
+    {
+        "therapeutic_class": "Opioid + Analgesic Combination",
+        "generic_name": "Tramadol + Paracetamol",
+        "category": "Pain Relief",
+        "sku": "SRL-NUB-FRT-TAB-014",
+        "brand_name": "Nuberol Forte",
+        "manufacturer": "The Searle Company",
+        "strength": "50mg/650mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 5 (Box of 15)",
+        "original_pack_quantity": 15,
+        "units_per_strip": 5,
+        "price": 201,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Nausea",
+            "Dizziness",
+            "Constipation"
+        ],
+        "contraindications": [
+            "Concurrent MAO inhibitor use",
+            "Severe respiratory depression",
+            "Known seizure disorder"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep in a secure location (controlled analgesic)"
         ]
     }
 ]
