@@ -71,7 +71,7 @@
         "package_size": "Strip of 7 (Box of 21)",
         "original_pack_quantity": 21,
         "units_per_strip": 7,
-        "price": 310,
+        "price": 861,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -101,7 +101,7 @@
         "package_size": "Strip of 10 (Box of 10)",
         "original_pack_quantity": 10,
         "units_per_strip": 10,
-        "price": 430,
+        "price": 445,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -128,10 +128,10 @@
         "manufacturer": "GlaxoSmithKline Pakistan",
         "strength": "625mg",
         "dosage_form": "Tablet",
-        "package_size": "Strip of 6 (Box of 6)",
-        "original_pack_quantity": 6,
+        "package_size": "Strip of 6 (Box of 12)",
+        "original_pack_quantity": 12,
         "units_per_strip": 6,
-        "price": 282,
+        "price": 565,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -161,7 +161,7 @@
         "package_size": "Strip of 10 (Box of 200)",
         "original_pack_quantity": 200,
         "units_per_strip": 10,
-        "price": 47,
+        "price": 48,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -191,7 +191,7 @@
         "package_size": "Strip of 10 (Box of 200)",
         "original_pack_quantity": 200,
         "units_per_strip": 10,
-        "price": 60,
+        "price": 61,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active",
@@ -251,7 +251,7 @@
         "package_size": "Strip of 10 (Box of 30)",
         "original_pack_quantity": 30,
         "units_per_strip": 10,
-        "price": 267,
+        "price": 390,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active",
@@ -281,7 +281,7 @@
         "package_size": "Strip of 10 (Box of 10)",
         "original_pack_quantity": 10,
         "units_per_strip": 10,
-        "price": 400,
+        "price": 450,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -311,7 +311,7 @@
         "package_size": "Strip of 10 (Box of 10)",
         "original_pack_quantity": 10,
         "units_per_strip": 10,
-        "price": 143,
+        "price": 160,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active",
@@ -371,7 +371,7 @@
         "package_size": "Strip of 10 (Box of 100)",
         "original_pack_quantity": 100,
         "units_per_strip": 10,
-        "price": 117,
+        "price": 150,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active",
@@ -398,7 +398,7 @@
         "package_size": "Strip of 5 (Box of 15)",
         "original_pack_quantity": 15,
         "units_per_strip": 5,
-        "price": 52,
+        "price": 201,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -459,7 +459,7 @@
         "package_size": "Strip of 10 (Box of 10)",
         "original_pack_quantity": 10,
         "units_per_strip": 10,
-        "price": 646,
+        "price": 582,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -490,7 +490,7 @@
         "package_size": "Strip of 15 (Box of 30)",
         "original_pack_quantity": 30,
         "units_per_strip": 15,
-        "price": 500,
+        "price": 242,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active",
@@ -504,6 +504,127 @@
         "storage": [
             "Store below 25°C",
             "Protect from light"
+        ]
+    },
+    {
+        "therapeutic_class": "Analgesic/Antipyretic",
+        "generic_name": "Paracetamol",
+        "category": "Pain Relief",
+        "sku": "GSK-CAL-500-TAB-018",
+        "brand_name": "Calpol",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "500mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 200)",
+        "original_pack_quantity": 200,
+        "units_per_strip": 10,
+        "price": 35,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Nausea (rare)",
+            "Skin rash (rare)"
+        ],
+        "contraindications": [
+            "Severe liver disease",
+            "Known hypersensitivity to paracetamol"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep away from moisture and direct sunlight"
+        ]
+    },
+    {
+        "therapeutic_class": "Fluoroquinolone Antibiotic",
+        "generic_name": "Levofloxacin",
+        "category": "Antibiotics",
+        "sku": "GTZ-LEF-250-TAB-019",
+        "brand_name": "Leflox",
+        "manufacturer": "Getz Pharma",
+        "strength": "250mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 10,
+        "price": 680,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Nausea",
+            "Dizziness",
+            "Tendon pain (rare)"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to quinolones",
+            "Myasthenia gravis"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep in original packaging"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID",
+        "generic_name": "Diclofenac",
+        "category": "Pain Relief",
+        "sku": "AGP-DIC-50-TAB-020",
+        "brand_name": "Dicloran",
+        "manufacturer": "Sami Pharmaceuticals",
+        "strength": "50mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 365,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Stomach upset",
+            "Heartburn",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Active peptic ulcer",
+            "Severe heart failure",
+            "Third trimester pregnancy"
+        ],
+        "storage": [
+            "Store below 30°C",
+            "Protect from moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Sulfonylurea",
+        "generic_name": "Glimepiride",
+        "category": "Diabetes",
+        "sku": "GTZ-GTR-2-TAB-021",
+        "brand_name": "Getryl",
+        "manufacturer": "Getz Pharma",
+        "strength": "2mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 650,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Hypoglycemia",
+            "Weight gain",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Type 1 diabetes",
+            "Diabetic ketoacidosis",
+            "Severe renal or hepatic impairment"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
         ]
     }
 ]
