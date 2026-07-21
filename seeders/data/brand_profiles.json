@@ -626,5 +626,1013 @@
             "Store below 25°C",
             "Protect from light and moisture"
         ]
+    },
+    {
+        "therapeutic_class": "3rd Gen Cephalosporin Antibiotic",
+        "generic_name": "Cefixime",
+        "category": "Antibiotics",
+        "sku": "GTZ-CFG-200-TAB-022",
+        "brand_name": "Cefiget",
+        "manufacturer": "Getz Pharma",
+        "strength": "200mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 600,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Diarrhea",
+            "Nausea",
+            "Skin rash"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to cephalosporins"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "3rd Gen Cephalosporin Antibiotic",
+        "generic_name": "Cefixime",
+        "category": "Antibiotics",
+        "sku": "GTZ-CFG-DS-SUS-023",
+        "brand_name": "Cefiget DS",
+        "manufacturer": "Getz Pharma",
+        "strength": "200mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 373,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Diarrhea",
+            "Stomach upset",
+            "Skin rash"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to cephalosporins"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Shake well before use"
+        ]
+    },
+    {
+        "therapeutic_class": "Proton Pump Inhibitor",
+        "generic_name": "Omeprazole",
+        "category": "Gastrointestinal",
+        "sku": "GTZ-RIS-20-CAP-024",
+        "brand_name": "Risek 20",
+        "manufacturer": "Getz Pharma",
+        "strength": "20mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 7 (Box of 21)",
+        "original_pack_quantity": 21,
+        "units_per_strip": 7,
+        "price": 610,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Headache",
+            "Diarrhea",
+            "Abdominal pain"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to omeprazole"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Proton Pump Inhibitor",
+        "generic_name": "Esomeprazole",
+        "category": "Gastrointestinal",
+        "sku": "GTZ-NEX-20-CAP-025",
+        "brand_name": "Nexum",
+        "manufacturer": "Getz Pharma",
+        "strength": "20mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 7 (Box of 14)",
+        "original_pack_quantity": 14,
+        "units_per_strip": 7,
+        "price": 395,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Headache",
+            "Nausea",
+            "Abdominal pain"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to esomeprazole",
+            "Concurrent use with rilpivirine"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Leukotriene Receptor Antagonist",
+        "generic_name": "Montelukast",
+        "category": "Respiratory",
+        "sku": "GTZ-MTG-10-TAB-026",
+        "brand_name": "Montiget",
+        "manufacturer": "Getz Pharma",
+        "strength": "10mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 7 (Box of 14)",
+        "original_pack_quantity": 14,
+        "units_per_strip": 7,
+        "price": 555,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Headache",
+            "Abdominal pain",
+            "Fatigue"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to montelukast"
+        ],
+        "storage": [
+            "Store below 30°C",
+            "Protect from light"
+        ]
+    },
+    {
+        "therapeutic_class": "Fibrate (Lipid Regulator)",
+        "generic_name": "Fenofibrate",
+        "category": "Heart Care",
+        "sku": "GTZ-FNG-67-CAP-027",
+        "brand_name": "Fenoget",
+        "manufacturer": "Getz Pharma",
+        "strength": "67mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 765,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Stomach upset",
+            "Muscle pain",
+            "Headache"
+        ],
+        "contraindications": [
+            "Severe renal or hepatic impairment",
+            "Active gallbladder disease"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Joint Health Supplement",
+        "generic_name": "Glucosamine + Chondroitin Sulfate",
+        "category": "Medicines",
+        "sku": "GTZ-CTG-STD-TAB-028",
+        "brand_name": "Cartigen",
+        "manufacturer": "Getz Pharma",
+        "strength": "500mg/400mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 5 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 5,
+        "price": 1400,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Mild stomach upset",
+            "Nausea (rare)"
+        ],
+        "contraindications": [
+            "Known shellfish allergy (glucosamine source)"
+        ],
+        "storage": [
+            "Store below 30°C",
+            "Protect from moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Herbal Supplement",
+        "generic_name": "Tribulus Terrestris Extract",
+        "category": "Men's Health",
+        "sku": "GTZ-GNF-STD-CAP-029",
+        "brand_name": "Gonadil-F",
+        "manufacturer": "Getz Pharma",
+        "strength": "Standard",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 10 (Box of 40)",
+        "original_pack_quantity": 40,
+        "units_per_strip": 10,
+        "price": 2160,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Mild stomach upset (rare)"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to Tribulus Terrestris"
+        ],
+        "storage": [
+            "Store below 30°C",
+            "Protect from moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Sulfonylurea",
+        "generic_name": "Glimepiride",
+        "category": "Diabetes",
+        "sku": "GTZ-GTR-1-TAB-030",
+        "brand_name": "Getryl 1",
+        "manufacturer": "Getz Pharma",
+        "strength": "1mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 365,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Hypoglycemia",
+            "Weight gain",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Type 1 diabetes",
+            "Diabetic ketoacidosis",
+            "Severe renal or hepatic impairment"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Sulfonylurea",
+        "generic_name": "Glimepiride",
+        "category": "Diabetes",
+        "sku": "GTZ-GTR-3-TAB-031",
+        "brand_name": "Getryl 3",
+        "manufacturer": "Getz Pharma",
+        "strength": "3mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 750,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Hypoglycemia",
+            "Weight gain",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Type 1 diabetes",
+            "Diabetic ketoacidosis",
+            "Severe renal or hepatic impairment"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Sulfonylurea",
+        "generic_name": "Glimepiride",
+        "category": "Diabetes",
+        "sku": "GTZ-GTR-4-TAB-032",
+        "brand_name": "Getryl 4",
+        "manufacturer": "Getz Pharma",
+        "strength": "4mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 1150,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Hypoglycemia",
+            "Weight gain"
+        ],
+        "contraindications": [
+            "Type 1 diabetes",
+            "Diabetic ketoacidosis"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "3rd Gen Cephalosporin Antibiotic",
+        "generic_name": "Cefixime",
+        "category": "Antibiotics",
+        "sku": "GTZ-CFG-200-CAP-033",
+        "brand_name": "Cefiget Capsule",
+        "manufacturer": "Getz Pharma",
+        "strength": "200mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 600,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Diarrhea",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to cephalosporins"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Vitamin D Analog",
+        "generic_name": "Cholecalciferol",
+        "category": "Vitamins",
+        "sku": "GTZ-MRD-STD-INJ-034",
+        "brand_name": "Miura-D",
+        "manufacturer": "Getz Pharma",
+        "strength": "Standard",
+        "dosage_form": "Injection",
+        "package_size": "Vial",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 210,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Injection site pain (rare)"
+        ],
+        "contraindications": [
+            "Hypercalcemia",
+            "Vitamin D toxicity"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "COX-2 Inhibitor (NSAID)",
+        "generic_name": "Celecoxib",
+        "category": "Pain Relief",
+        "sku": "GTZ-CLB-200-CAP-035",
+        "brand_name": "Celbex",
+        "manufacturer": "Getz Pharma",
+        "strength": "200mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 10 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 10,
+        "price": 760,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Stomach upset",
+            "Headache"
+        ],
+        "contraindications": [
+            "Sulfonamide allergy",
+            "Active GI bleeding"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "HMG-CoA Reductase Inhibitor (Statin)",
+        "generic_name": "Atorvastatin",
+        "category": "Heart Care",
+        "sku": "GTZ-LPG-STD-TAB-036",
+        "brand_name": "Lipiget",
+        "manufacturer": "Getz Pharma",
+        "strength": "20mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 1640,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Muscle pain",
+            "Headache"
+        ],
+        "contraindications": [
+            "Active liver disease",
+            "Pregnancy"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Oral Nutritional Supplement",
+        "generic_name": "Macronutrients & Micronutrients",
+        "category": "Vitamins",
+        "sku": "GTZ-LVT-STD-SAC-037",
+        "brand_name": "Livity",
+        "manufacturer": "Getz Pharma",
+        "strength": "Standard",
+        "dosage_form": "Sachet",
+        "package_size": "Box",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 500,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Mild stomach upset (rare)"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Osmotic Laxative",
+        "generic_name": "Lactulose",
+        "category": "Gastrointestinal",
+        "sku": "GTZ-LIL-STD-SYR-038",
+        "brand_name": "Lilac",
+        "manufacturer": "Getz Pharma",
+        "strength": "Standard",
+        "dosage_form": "Syrup",
+        "package_size": "Bottle",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 291,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Bloating",
+            "Flatulence"
+        ],
+        "contraindications": [
+            "Galactosemia",
+            "Intestinal obstruction"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Insulin",
+        "generic_name": "Insulin (Human)",
+        "category": "Diabetes",
+        "sku": "GTZ-ISG-STD-VIA-039",
+        "brand_name": "Insuget",
+        "manufacturer": "Getz Pharma",
+        "strength": "70/30",
+        "dosage_form": "Injection",
+        "package_size": "Vial",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 929,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Hypoglycemia",
+            "Injection site reaction"
+        ],
+        "contraindications": [
+            "Hypoglycemia episodes"
+        ],
+        "storage": [
+            "Store in refrigerator (2-8°C)",
+            "Do not freeze"
+        ]
+    },
+    {
+        "therapeutic_class": "Sulfonylurea + Biguanide Combination",
+        "generic_name": "Glimepiride + Metformin",
+        "category": "Diabetes",
+        "sku": "GTZ-GTF-STD-TAB-040",
+        "brand_name": "Getformin",
+        "manufacturer": "Getz Pharma",
+        "strength": "2mg/500mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 650,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Hypoglycemia",
+            "GI upset"
+        ],
+        "contraindications": [
+            "Type 1 diabetes",
+            "Renal impairment"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Anticonvulsant / Neuropathic Pain",
+        "generic_name": "Pregabalin",
+        "category": "Neurology",
+        "sku": "GTZ-GBC-300-CAP-041",
+        "brand_name": "Gabica",
+        "manufacturer": "Getz Pharma",
+        "strength": "300mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 7 (Box of 14)",
+        "original_pack_quantity": 14,
+        "units_per_strip": 7,
+        "price": 1475,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Dizziness",
+            "Somnolence",
+            "Weight gain"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to pregabalin"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Anticonvulsant / Neuropathic Pain",
+        "generic_name": "Pregabalin",
+        "category": "Neurology",
+        "sku": "GTZ-GBX-STD-CAP-042",
+        "brand_name": "Gabix",
+        "manufacturer": "Getz Pharma",
+        "strength": "100mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 14 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 148,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Dizziness",
+            "Somnolence"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to pregabalin"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Antihistamine",
+        "generic_name": "Fexofenadine HCl",
+        "category": "Respiratory",
+        "sku": "GTZ-FXT-STD-TAB-043",
+        "brand_name": "Fexet",
+        "manufacturer": "Getz Pharma",
+        "strength": "120mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 10,
+        "price": 640,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Headache",
+            "Drowsiness (mild)"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to fexofenadine"
+        ],
+        "storage": [
+            "Store below 30°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Antihistamine + Decongestant",
+        "generic_name": "Fexofenadine + Pseudoephedrine",
+        "category": "Respiratory",
+        "sku": "GTZ-FXD-STD-TAB-044",
+        "brand_name": "Fexet-D",
+        "manufacturer": "Getz Pharma",
+        "strength": "Standard",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 300,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Insomnia",
+            "Increased heart rate"
+        ],
+        "contraindications": [
+            "Uncontrolled hypertension",
+            "Narrow-angle glaucoma"
+        ],
+        "storage": [
+            "Store below 30°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Antidiabetic Combination",
+        "generic_name": "Diabetes Combination Therapy",
+        "category": "Diabetes",
+        "sku": "GTZ-DMP-STD-TAB-045",
+        "brand_name": "Diampa",
+        "manufacturer": "Getz Pharma",
+        "strength": "10mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 14)",
+        "original_pack_quantity": 14,
+        "units_per_strip": 7,
+        "price": 495,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "GI upset",
+            "Hypoglycemia"
+        ],
+        "contraindications": [
+            "Type 1 diabetes"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "ARB + Calcium Channel Blocker",
+        "generic_name": "Amlodipine + Valsartan",
+        "category": "Heart Care",
+        "sku": "GTZ-CVM-STD-TAB-046",
+        "brand_name": "Covam",
+        "manufacturer": "Getz Pharma",
+        "strength": "5mg/80mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 14 (Box of 14)",
+        "original_pack_quantity": 14,
+        "units_per_strip": 7,
+        "price": 510,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Ankle swelling",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Severe hypotension",
+            "Pregnancy"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "ARB + CCB + Diuretic",
+        "generic_name": "Amlodipine + Valsartan + Hydrochlorothiazide",
+        "category": "Heart Care",
+        "sku": "GTZ-CVP-STD-TAB-047",
+        "brand_name": "Covam Plus",
+        "manufacturer": "Getz Pharma",
+        "strength": "5mg+160mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 14 (Box of 14)",
+        "original_pack_quantity": 14,
+        "units_per_strip": 7,
+        "price": 570,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Dizziness",
+            "Electrolyte imbalance"
+        ],
+        "contraindications": [
+            "Severe hypotension",
+            "Pregnancy",
+            "Anuria"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Angiotensin Receptor Blocker",
+        "generic_name": "Valsartan",
+        "category": "Heart Care",
+        "sku": "GTZ-COV-STD-TAB-048",
+        "brand_name": "Cova",
+        "manufacturer": "Getz Pharma",
+        "strength": "80mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 14 (Box of 14)",
+        "original_pack_quantity": 14,
+        "units_per_strip": 7,
+        "price": 325,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Dizziness",
+            "Headache"
+        ],
+        "contraindications": [
+            "Pregnancy",
+            "Severe hepatic impairment"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "ARB + Diuretic",
+        "generic_name": "Valsartan + Hydrochlorothiazide",
+        "category": "Heart Care",
+        "sku": "GTZ-COH-STD-TAB-049",
+        "brand_name": "Cova-H",
+        "manufacturer": "Getz Pharma",
+        "strength": "80mg + 12.5mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 14 (Box of 14)",
+        "original_pack_quantity": 14,
+        "units_per_strip": 7,
+        "price": 367,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Dizziness",
+            "Electrolyte imbalance"
+        ],
+        "contraindications": [
+            "Anuria",
+            "Pregnancy"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Dietary Supplement",
+        "generic_name": "Vitamin C",
+        "category": "Vitamins",
+        "sku": "GTZ-CRC-STD-TAB-050",
+        "brand_name": "Core C",
+        "manufacturer": "Getz Pharma",
+        "strength": "1000mg",
+        "dosage_form": "Sachets",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 1,
+        "price": 400,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Mild stomach upset (rare)"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to ascorbic acid"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Macrolide Antibiotic",
+        "generic_name": "Clarithromycin",
+        "category": "Antibiotics",
+        "sku": "GTZ-CLT-250-TAB-051",
+        "brand_name": "Claritek",
+        "manufacturer": "Getz Pharma",
+        "strength": "250mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 523,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Metallic taste",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to macrolides"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Macrolide Antibiotic",
+        "generic_name": "Clarithromycin",
+        "category": "Antibiotics",
+        "sku": "GTZ-CLT-SUS-052",
+        "brand_name": "Claritek Suspension",
+        "manufacturer": "Getz Pharma",
+        "strength": "125mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 50ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 446,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Metallic taste",
+            "GI upset"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to macrolides"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Fluoroquinolone Antibiotic",
+        "generic_name": "Ciprofloxacin HCl",
+        "category": "Antibiotics",
+        "sku": "GTZ-CPS-STD-TAB-053",
+        "brand_name": "Cipesta",
+        "manufacturer": "Getz Pharma",
+        "strength": "500mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 450,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Nausea",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to quinolones",
+            "Myasthenia gravis"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Antimalarial",
+        "generic_name": "Artemether + Lumefantrine",
+        "category": "Medicines",
+        "sku": "GTZ-ATG-STD-TAB-054",
+        "brand_name": "Artheget",
+        "manufacturer": "Getz Pharma",
+        "strength": "20mg/120mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 8 (Box of 16)",
+        "original_pack_quantity": 16,
+        "units_per_strip": 8,
+        "price": 252,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Headache",
+            "GI upset"
+        ],
+        "contraindications": [
+            "First trimester pregnancy",
+            "Known hypersensitivity"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Angiotensin Receptor Blocker",
+        "generic_name": "Candesartan",
+        "category": "Heart Care",
+        "sku": "GTZ-ADV-STD-TAB-055",
+        "brand_name": "Advant",
+        "manufacturer": "Getz Pharma",
+        "strength": "8mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 7 (Box of 14)",
+        "original_pack_quantity": 14,
+        "units_per_strip": 7,
+        "price": 476,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Dizziness",
+            "Headache"
+        ],
+        "contraindications": [
+            "Pregnancy",
+            "Severe hepatic impairment"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Non-Aminoglycoside Antibacterial",
+        "generic_name": "Rifaximin",
+        "category": "Gastrointestinal",
+        "sku": "GTZ-NMX-200-TAB-056",
+        "brand_name": "Nimixa",
+        "manufacturer": "Getz Pharma",
+        "strength": "200mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 477,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Flatulence",
+            "Headache"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to rifaximin or rifamycin antibiotics"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Herbal Expectorant",
+        "generic_name": "Ivy Leaf Extract",
+        "category": "Respiratory",
+        "sku": "GTZ-OLC-STD-SYR-057",
+        "brand_name": "Olcuf",
+        "manufacturer": "Getz Pharma",
+        "strength": "Standard",
+        "dosage_form": "Syrup",
+        "package_size": "Bottle",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 520,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Mild GI upset (rare)"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to ivy leaf extract"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
     }
 ]
