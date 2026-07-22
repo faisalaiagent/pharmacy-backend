@@ -632,7 +632,7 @@
         "generic_name": "Cefixime",
         "category": "Antibiotics",
         "sku": "GTZ-CFG-200-TAB-022",
-        "brand_name": "Cefiget Tablet",
+        "brand_name": "Cefiget",
         "manufacturer": "Getz Pharma",
         "strength": "200mg",
         "dosage_form": "Tablet",
@@ -2277,6 +2277,924 @@
         ],
         "storage": [
             "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Antihistamine",
+        "generic_name": "Triprolidine",
+        "category": "Respiratory",
+        "sku": "GSK-ACD-STD-ELX-081",
+        "brand_name": "Actidil Elixir",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "1.25 Mg/5 Ml",
+        "dosage_form": "Elixir",
+        "package_size": "Bottle 60ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 118,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic",
+        "generic_name": "Amoxicillin",
+        "category": "Antibiotics",
+        "sku": "GSK-AMX-250-CAP-082",
+        "brand_name": "Amoxil 250",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "250mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 1 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 20,
+        "price": 215,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic",
+        "generic_name": "Amoxicillin",
+        "category": "Antibiotics",
+        "sku": "GSK-AMX-500-CAP-083",
+        "brand_name": "Amoxil 500",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "500mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 1 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 20,
+        "price": 380,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic",
+        "generic_name": "Amoxicillin",
+        "category": "Antibiotics",
+        "sku": "GSK-AMX-SUS-084",
+        "brand_name": "Amoxil Suspension",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "125mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 90ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 126,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic",
+        "generic_name": "Amoxicillin",
+        "category": "Antibiotics",
+        "sku": "GSK-AMX-FRT-SUS-085",
+        "brand_name": "Amoxil Forte",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "250mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 90ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 187,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic",
+        "generic_name": "Amoxicillin",
+        "category": "Antibiotics",
+        "sku": "GSK-AMX-PED-DRP-086",
+        "brand_name": "Amoxil Paediatric Drops",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "125mg/1.25ml",
+        "dosage_form": "Drops",
+        "package_size": "Bottle 20ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 130,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic Combination",
+        "generic_name": "Ampicillin + Cloxacillin",
+        "category": "Antibiotics",
+        "sku": "GSK-AMP-250-CAP-087",
+        "brand_name": "Ampiclox 250",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "250mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 5 (Box of 100)",
+        "original_pack_quantity": 100,
+        "units_per_strip": 20,
+        "price": 1275,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic Combination",
+        "generic_name": "Ampicillin + Cloxacillin",
+        "category": "Antibiotics",
+        "sku": "GSK-AMP-500-CAP-088",
+        "brand_name": "Ampiclox 500",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "500mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 5 (Box of 100)",
+        "original_pack_quantity": 100,
+        "units_per_strip": 20,
+        "price": 2172,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic Combination",
+        "generic_name": "Ampicillin + Cloxacillin",
+        "category": "Antibiotics",
+        "sku": "GSK-AMP-SUS-089",
+        "brand_name": "Ampiclox Suspension",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "250mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 90ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 374,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic Combination",
+        "generic_name": "Ampicillin + Cloxacillin",
+        "category": "Antibiotics",
+        "sku": "GSK-AMP-DRP-090",
+        "brand_name": "Ampiclox Drops",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "90mg",
+        "dosage_form": "Drops",
+        "package_size": "Bottle 20ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 192,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Nitrate (Anti-anginal)",
+        "generic_name": "Glyceryl Trinitrate",
+        "category": "Heart Care",
+        "sku": "GSK-ANG-0.5-TAB-091",
+        "brand_name": "Angised",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "0.5mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 120,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic",
+        "generic_name": "Co-Amoxiclav",
+        "category": "Antibiotics",
+        "sku": "GSK-AUG-375-TAB-092",
+        "brand_name": "Augmentin 375",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "375mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 6 (Box of 6)",
+        "original_pack_quantity": 6,
+        "units_per_strip": 6,
+        "price": 267,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic",
+        "generic_name": "Co-Amoxiclav",
+        "category": "Antibiotics",
+        "sku": "GSK-AUG-1G-TAB-093",
+        "brand_name": "Augmentin 1G",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "1g",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 6 (Box of 6)",
+        "original_pack_quantity": 6,
+        "units_per_strip": 6,
+        "price": 365,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic",
+        "generic_name": "Co-Amoxiclav",
+        "category": "Antibiotics",
+        "sku": "GSK-AUG-156-SUS-094",
+        "brand_name": "Augmentin Suspension",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "156.25mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 90ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 380,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic",
+        "generic_name": "Co-Amoxiclav",
+        "category": "Antibiotics",
+        "sku": "GSK-AUG-DS-SUS-095",
+        "brand_name": "Augmentin DS",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "312.5mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 90ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 596,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Beta-lactam Antibiotic",
+        "generic_name": "Co-Amoxiclav",
+        "category": "Antibiotics",
+        "sku": "GSK-AUG-BD-SUS-096",
+        "brand_name": "Augmentin BD",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "457mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 35ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 221,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Corticosteroid",
+        "generic_name": "Betamethasone Sodium Phosphate",
+        "category": "Skin Care",
+        "sku": "GSK-BTL-0.5-TAB-097",
+        "brand_name": "Betnelan",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "0.5mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 500)",
+        "original_pack_quantity": 500,
+        "units_per_strip": 20,
+        "price": 50,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Corticosteroid",
+        "generic_name": "Betamethasone Sodium Phosphate",
+        "category": "Skin Care",
+        "sku": "GSK-BTS-0.5-TAB-098",
+        "brand_name": "Betnesol",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "0.5mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 100)",
+        "original_pack_quantity": 100,
+        "units_per_strip": 10,
+        "price": 40,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Corticosteroid + Antibiotic",
+        "generic_name": "Betamethasone + Neomycin",
+        "category": "ENT",
+        "sku": "GSK-BTN-N-DRP-099",
+        "brand_name": "Betnesol-N Drops",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "7.5ml",
+        "dosage_form": "Drops",
+        "package_size": "Bottle 7.5ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 117,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Corticosteroid",
+        "generic_name": "Betamethasone",
+        "category": "ENT",
+        "sku": "GSK-BTS-DRP-100",
+        "brand_name": "Betnesol Drops",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "7.5ml",
+        "dosage_form": "Drops",
+        "package_size": "Bottle 7.5ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 69,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Corticosteroid + Antibiotic",
+        "generic_name": "Betamethasone + Neomycin",
+        "category": "Eye Care",
+        "sku": "GSK-BTN-N-OIN-101",
+        "brand_name": "Betnesol-N Eye Ointment",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "5g",
+        "dosage_form": "Ointment",
+        "package_size": "Tube 5g",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 100,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Corticosteroid + Antibiotic",
+        "generic_name": "Betamethasone + Neomycin",
+        "category": "Skin Care",
+        "sku": "GSK-BTV-N-CRM-102",
+        "brand_name": "Betnovate-N Cream",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "20g",
+        "dosage_form": "Cream",
+        "package_size": "Tube 20g",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 182,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Corticosteroid + Antibiotic",
+        "generic_name": "Betamethasone + Neomycin",
+        "category": "Skin Care",
+        "sku": "GSK-BTV-N-LTN-103",
+        "brand_name": "Betnovate-N Lotion",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "60ml",
+        "dosage_form": "Lotion",
+        "package_size": "Bottle 60ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 440,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Analgesic/Antipyretic",
+        "generic_name": "Paracetamol",
+        "category": "Pediatrics",
+        "sku": "GSK-CAL6-SUS-104",
+        "brand_name": "Calpol 6 Plus",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "250mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 90ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 120,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Analgesic/Antipyretic",
+        "generic_name": "Paracetamol",
+        "category": "Pediatrics",
+        "sku": "GSK-CALP-SUS-105",
+        "brand_name": "Calpol Paediatric Suspension",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "120mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 100ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 110,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Analgesic/Antipyretic + Stimulant",
+        "generic_name": "Paracetamol + Caffeine",
+        "category": "Pain Relief",
+        "sku": "GSK-CALP-TAB-106",
+        "brand_name": "Calpol Plus",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "500mg/65mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 200)",
+        "original_pack_quantity": 200,
+        "units_per_strip": 10,
+        "price": 55,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "ACE Inhibitor",
+        "generic_name": "Captopril",
+        "category": "Heart Care",
+        "sku": "GSK-CAP-25-TAB-107",
+        "brand_name": "Capoten",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "25mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 10,
+        "price": 469,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Cephalosporin Antibiotic",
+        "generic_name": "Cephalexin",
+        "category": "Antibiotics",
+        "sku": "GSK-CPX-250-CAP-108",
+        "brand_name": "Ceporex 250",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "250mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 12 (Box of 12)",
+        "original_pack_quantity": 12,
+        "units_per_strip": 12,
+        "price": 205,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Cephalosporin Antibiotic",
+        "generic_name": "Cephalexin",
+        "category": "Antibiotics",
+        "sku": "GSK-CPX-500-CAP-109",
+        "brand_name": "Ceporex 500",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "500mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 12 (Box of 12)",
+        "original_pack_quantity": 12,
+        "units_per_strip": 12,
+        "price": 424,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Cephalosporin Antibiotic",
+        "generic_name": "Cephalexin",
+        "category": "Antibiotics",
+        "sku": "GSK-CPX-250-SUS-110",
+        "brand_name": "Ceporex Suspension 250",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "250mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 90ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 300,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Cephalosporin Antibiotic",
+        "generic_name": "Cephalexin",
+        "category": "Antibiotics",
+        "sku": "GSK-CPX-125-SUS-111",
+        "brand_name": "Ceporex Suspension 125",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "125mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 90ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 152,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Cephalosporin Antibiotic",
+        "generic_name": "Cephalexin",
+        "category": "Antibiotics",
+        "sku": "GSK-CPX-DRP-112",
+        "brand_name": "Ceporex Oral Drops",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "125mg/1ml",
+        "dosage_form": "Drops",
+        "package_size": "Bottle 10ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 158,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Calcium + Vitamin D Supplement",
+        "generic_name": "Calcium Carbonate + Vitamin D3",
+        "category": "Pediatrics",
+        "sku": "GSK-CHW-STD-TAB-113",
+        "brand_name": "Chewcal",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "400mg/100IU",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 278,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Topical Antibiotic Powder",
+        "generic_name": "Neomycin + Bacitracin + Amino Acids",
+        "category": "Skin Care",
+        "sku": "GSK-CIC-STD-PWD-114",
+        "brand_name": "Cicatrin Powder",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "20g",
+        "dosage_form": "Powder",
+        "package_size": "Bottle 20g",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 199,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
         ]
     }
 ]
