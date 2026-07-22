@@ -161,7 +161,7 @@
         "package_size": "Strip of 10 (Box of 200)",
         "original_pack_quantity": 200,
         "units_per_strip": 10,
-        "price": 48,
+        "price": 47,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -191,7 +191,7 @@
         "package_size": "Strip of 10 (Box of 200)",
         "original_pack_quantity": 200,
         "units_per_strip": 10,
-        "price": 61,
+        "price": 60,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active",
@@ -250,8 +250,8 @@
         "dosage_form": "Tablet",
         "package_size": "Strip of 10 (Box of 30)",
         "original_pack_quantity": 30,
-        "units_per_strip": 10,
-        "price": 390,
+        "units_per_strip": 15,
+        "price": 343,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active",
@@ -341,7 +341,7 @@
         "package_size": "Strip of 10 (Box of 10)",
         "original_pack_quantity": 10,
         "units_per_strip": 10,
-        "price": 200,
+        "price": 385,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -366,12 +366,12 @@
         "sku": "MDW-NEU-STD-TAB-013",
         "brand_name": "Neurobion",
         "manufacturer": "Martin Dow",
-        "strength": "Standard",
+        "strength": "B1/B6/B12",
         "dosage_form": "Tablet",
         "package_size": "Strip of 10 (Box of 100)",
         "original_pack_quantity": 100,
         "units_per_strip": 10,
-        "price": 150,
+        "price": 143,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active",
@@ -632,7 +632,7 @@
         "generic_name": "Cefixime",
         "category": "Antibiotics",
         "sku": "GTZ-CFG-200-TAB-022",
-        "brand_name": "Cefiget",
+        "brand_name": "Cefiget Tablet",
         "manufacturer": "Getz Pharma",
         "strength": "200mg",
         "dosage_form": "Tablet",
@@ -663,7 +663,7 @@
         "sku": "GTZ-CFG-DS-SUS-023",
         "brand_name": "Cefiget DS",
         "manufacturer": "Getz Pharma",
-        "strength": "200mg/5ml",
+        "strength": "200mg/5ml Suspension",
         "dosage_form": "Suspension",
         "package_size": "Bottle",
         "original_pack_quantity": 1,
@@ -690,11 +690,11 @@
         "generic_name": "Omeprazole",
         "category": "Gastrointestinal",
         "sku": "GTZ-RIS-20-CAP-024",
-        "brand_name": "Risek 20",
+        "brand_name": "Risek",
         "manufacturer": "Getz Pharma",
-        "strength": "20mg",
+        "strength": "20mg Capsule",
         "dosage_form": "Capsule",
-        "package_size": "Strip of 7 (Box of 21)",
+        "package_size": "Strip of 14 (Box of 21)",
         "original_pack_quantity": 21,
         "units_per_strip": 7,
         "price": 610,
@@ -812,9 +812,9 @@
         "manufacturer": "Getz Pharma",
         "strength": "500mg/400mg",
         "dosage_form": "Tablet",
-        "package_size": "Strip of 5 (Box of 20)",
+        "package_size": "Strip of 10 (Box of 20)",
         "original_pack_quantity": 20,
-        "units_per_strip": 5,
+        "units_per_strip": 10,
         "price": 1400,
         "currency": "PKR",
         "prescription_required": false,
@@ -838,7 +838,7 @@
         "sku": "GTZ-GNF-STD-CAP-029",
         "brand_name": "Gonadil-F",
         "manufacturer": "Getz Pharma",
-        "strength": "Standard",
+        "strength": "Combined",
         "dosage_form": "Capsule",
         "package_size": "Strip of 10 (Box of 40)",
         "original_pack_quantity": 40,
@@ -863,7 +863,7 @@
         "generic_name": "Glimepiride",
         "category": "Diabetes",
         "sku": "GTZ-GTR-1-TAB-030",
-        "brand_name": "Getryl 1",
+        "brand_name": "Getryl1",
         "manufacturer": "Getz Pharma",
         "strength": "1mg",
         "dosage_form": "Tablet",
@@ -894,7 +894,7 @@
         "generic_name": "Glimepiride",
         "category": "Diabetes",
         "sku": "GTZ-GTR-3-TAB-031",
-        "brand_name": "Getryl 3",
+        "brand_name": "Getryl3",
         "manufacturer": "Getz Pharma",
         "strength": "3mg",
         "dosage_form": "Tablet",
@@ -925,7 +925,7 @@
         "generic_name": "Glimepiride",
         "category": "Diabetes",
         "sku": "GTZ-GTR-4-TAB-032",
-        "brand_name": "Getryl 4",
+        "brand_name": "Getryl4",
         "manufacturer": "Getz Pharma",
         "strength": "4mg",
         "dosage_form": "Tablet",
@@ -952,15 +952,15 @@
         "therapeutic_class": "3rd Gen Cephalosporin Antibiotic",
         "generic_name": "Cefixime",
         "category": "Antibiotics",
-        "sku": "GTZ-CFG-200-CAP-033",
+        "sku": "GTZ-CFG-400-CAP-033",
         "brand_name": "Cefiget Capsule",
         "manufacturer": "Getz Pharma",
-        "strength": "200mg",
+        "strength": "400mg",
         "dosage_form": "Capsule",
-        "package_size": "Strip of 10 (Box of 10)",
-        "original_pack_quantity": 10,
-        "units_per_strip": 10,
-        "price": 600,
+        "package_size": "Strip of 10 (Box of 5)",
+        "original_pack_quantity": 5,
+        "units_per_strip": 5,
+        "price": 565,
         "currency": "PKR",
         "prescription_required": true,
         "status": "active",
@@ -982,7 +982,7 @@
         "sku": "GTZ-MRD-STD-INJ-034",
         "brand_name": "Miura-D",
         "manufacturer": "Getz Pharma",
-        "strength": "Standard",
+        "strength": "5mg/ml",
         "dosage_form": "Injection",
         "package_size": "Vial",
         "original_pack_quantity": 1,
@@ -1065,12 +1065,12 @@
         "sku": "GTZ-LVT-STD-SAC-037",
         "brand_name": "Livity",
         "manufacturer": "Getz Pharma",
-        "strength": "Standard",
+        "strength": "Sachets 57g",
         "dosage_form": "Sachet",
         "package_size": "Box",
-        "original_pack_quantity": 1,
+        "original_pack_quantity": 10,
         "units_per_strip": 1,
-        "price": 500,
+        "price": 400,
         "currency": "PKR",
         "prescription_required": false,
         "status": "active",
@@ -1091,7 +1091,7 @@
         "sku": "GTZ-LIL-STD-SYR-038",
         "brand_name": "Lilac",
         "manufacturer": "Getz Pharma",
-        "strength": "Standard",
+        "strength": "Syrup 120ml",
         "dosage_form": "Syrup",
         "package_size": "Bottle",
         "original_pack_quantity": 1,
@@ -1119,7 +1119,7 @@
         "sku": "GTZ-ISG-STD-VIA-039",
         "brand_name": "Insuget",
         "manufacturer": "Getz Pharma",
-        "strength": "70/30",
+        "strength": "70/30 Injection 100Iu/ml",
         "dosage_form": "Injection",
         "package_size": "Vial",
         "original_pack_quantity": 1,
@@ -1257,7 +1257,7 @@
         "sku": "GTZ-FXD-STD-TAB-044",
         "brand_name": "Fexet-D",
         "manufacturer": "Getz Pharma",
-        "strength": "Standard",
+        "strength": "60mg+120mg",
         "dosage_form": "Tablet",
         "package_size": "Strip of 10 (Box of 10)",
         "original_pack_quantity": 10,
@@ -1425,7 +1425,7 @@
         "sku": "GTZ-CRC-STD-TAB-050",
         "brand_name": "Core C",
         "manufacturer": "Getz Pharma",
-        "strength": "1000mg",
+        "strength": "1000mg Sachets",
         "dosage_form": "Sachets",
         "package_size": "Strip of 10 (Box of 10)",
         "original_pack_quantity": 10,
@@ -1616,7 +1616,7 @@
         "sku": "GTZ-OLC-STD-SYR-057",
         "brand_name": "Olcuf",
         "manufacturer": "Getz Pharma",
-        "strength": "Standard",
+        "strength": "120ml Syrup",
         "dosage_form": "Syrup",
         "package_size": "Bottle",
         "original_pack_quantity": 1,
@@ -1630,6 +1630,650 @@
         ],
         "contraindications": [
             "Known hypersensitivity to ivy leaf extract"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID",
+        "generic_name": "Ibuprofen",
+        "category": "Pain Relief",
+        "sku": "ABT-BRU-200-TAB-058",
+        "brand_name": "Brufen200",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "200mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 100)",
+        "original_pack_quantity": 100,
+        "units_per_strip": 10,
+        "price": 45,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Stomach upset",
+            "Heartburn"
+        ],
+        "contraindications": [
+            "Active peptic ulcer",
+            "Third trimester pregnancy"
+        ],
+        "storage": [
+            "Store below 30°C"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID",
+        "generic_name": "Ibuprofen",
+        "category": "Pain Relief",
+        "sku": "ABT-BRU-SUS-059",
+        "brand_name": "Brufen Suspension",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "100mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 120ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 130,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Stomach upset",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Active peptic ulcer",
+            "Known hypersensitivity to ibuprofen"
+        ],
+        "storage": [
+            "Store below 30°C",
+            "Shake well before use"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID",
+        "generic_name": "Ibuprofen",
+        "category": "Pain Relief",
+        "sku": "ABT-BRU-DS-SUS-060",
+        "brand_name": "Brufen DS Suspension",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "200mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 90ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 118,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Stomach upset",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Active peptic ulcer",
+            "Known hypersensitivity to ibuprofen"
+        ],
+        "storage": [
+            "Store below 30°C",
+            "Shake well before use"
+        ]
+    },
+    {
+        "therapeutic_class": "Calcium Supplement",
+        "generic_name": "Calcium Carbonate",
+        "category": "Vitamins",
+        "sku": "ABT-ABC-STD-TAB-061",
+        "brand_name": "Abocal",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "Standard",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 410,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Constipation",
+            "Bloating"
+        ],
+        "contraindications": [
+            "Hypercalcemia",
+            "Kidney stones"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID + Decongestant",
+        "generic_name": "Ibuprofen + Pseudoephedrine",
+        "category": "Pain Relief",
+        "sku": "ABT-ARF-400-TAB-062",
+        "brand_name": "Arinac Forte",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "400mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 100)",
+        "original_pack_quantity": 100,
+        "units_per_strip": 10,
+        "price": 150,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Insomnia",
+            "Stomach upset"
+        ],
+        "contraindications": [
+            "Uncontrolled hypertension",
+            "Active peptic ulcer"
+        ],
+        "storage": [
+            "Store below 30°C"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID + Decongestant",
+        "generic_name": "Ibuprofen + Pseudoephedrine",
+        "category": "Pain Relief",
+        "sku": "ABT-ARN-200-TAB-063",
+        "brand_name": "Arinac",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "200mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 100)",
+        "original_pack_quantity": 100,
+        "units_per_strip": 10,
+        "price": 80,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Insomnia",
+            "Stomach upset"
+        ],
+        "contraindications": [
+            "Uncontrolled hypertension",
+            "Active peptic ulcer"
+        ],
+        "storage": [
+            "Store below 30°C"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID",
+        "generic_name": "Diclofenac Sodium",
+        "category": "Pain Relief",
+        "sku": "ABT-ART-50-TAB-064",
+        "brand_name": "Artifen 50",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "50mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 100)",
+        "original_pack_quantity": 100,
+        "units_per_strip": 10,
+        "price": 90,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Stomach upset",
+            "Heartburn"
+        ],
+        "contraindications": [
+            "Active peptic ulcer",
+            "Third trimester pregnancy"
+        ],
+        "storage": [
+            "Store below 30°C"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID",
+        "generic_name": "Diclofenac Sodium",
+        "category": "Pain Relief",
+        "sku": "ABT-ART-INJ-065",
+        "brand_name": "Artifen Injection",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "75mg/3ml",
+        "dosage_form": "Injection",
+        "package_size": "Box of 5 Ampoules",
+        "original_pack_quantity": 5,
+        "units_per_strip": 5,
+        "price": 135,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Injection site pain",
+            "GI upset"
+        ],
+        "contraindications": [
+            "Active peptic ulcer",
+            "Severe renal impairment"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID",
+        "generic_name": "Flurbiprofen",
+        "category": "Pain Relief",
+        "sku": "ABT-FRB-50-TAB-066",
+        "brand_name": "Froben 50",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "50mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 430,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Stomach upset",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Active peptic ulcer",
+            "Third trimester pregnancy"
+        ],
+        "storage": [
+            "Store below 30°C"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID",
+        "generic_name": "Flurbiprofen",
+        "category": "Pain Relief",
+        "sku": "ABT-FRB-100-TAB-067",
+        "brand_name": "Froben 100",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "100mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 450,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Stomach upset",
+            "Dizziness"
+        ],
+        "contraindications": [
+            "Active peptic ulcer",
+            "Third trimester pregnancy"
+        ],
+        "storage": [
+            "Store below 30°C"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID (Fenamate)",
+        "generic_name": "Mefenamic Acid",
+        "category": "Pain Relief",
+        "sku": "ABT-FLX-250-TAB-068",
+        "brand_name": "Flexin 250",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "250mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 10,
+        "price": 300,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Stomach upset",
+            "Drowsiness"
+        ],
+        "contraindications": [
+            "Active GI ulceration",
+            "Severe renal impairment"
+        ],
+        "storage": [
+            "Store below 30°C"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID (Fenamate)",
+        "generic_name": "Mefenamic Acid",
+        "category": "Pain Relief",
+        "sku": "ABT-FLX-500-TAB-069",
+        "brand_name": "Flexin 500",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "500mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 10,
+        "price": 560,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Stomach upset",
+            "Drowsiness"
+        ],
+        "contraindications": [
+            "Active GI ulceration",
+            "Severe renal impairment"
+        ],
+        "storage": [
+            "Store below 30°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Macrolide Antibiotic",
+        "generic_name": "Clarithromycin",
+        "category": "Antibiotics",
+        "sku": "ABT-KLC-250-TAB-070",
+        "brand_name": "Klaricid 250",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "250mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 547,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Metallic taste",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to macrolides"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Macrolide Antibiotic",
+        "generic_name": "Clarithromycin",
+        "category": "Antibiotics",
+        "sku": "ABT-KLC-500-TAB-071",
+        "brand_name": "Klaricid 500",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "500mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 990,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Metallic taste",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to macrolides"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Macrolide Antibiotic",
+        "generic_name": "Clarithromycin",
+        "category": "Antibiotics",
+        "sku": "ABT-KLC-PED-SUS-072",
+        "brand_name": "Klaricid Paediatric Suspension",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "125mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 70ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 580,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Metallic taste",
+            "GI upset"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to macrolides"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Shake well before use"
+        ]
+    },
+    {
+        "therapeutic_class": "Amoebicide",
+        "generic_name": "Metronidazole + Diloxanide Furoate",
+        "category": "Gastrointestinal",
+        "sku": "ABT-ENT-STD-TAB-073",
+        "brand_name": "Entamizole",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "250mg/200mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 300,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Metallic taste",
+            "Nausea",
+            "Dark urine"
+        ],
+        "contraindications": [
+            "First trimester pregnancy"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Amoebicide",
+        "generic_name": "Metronidazole + Diloxanide Furoate",
+        "category": "Gastrointestinal",
+        "sku": "ABT-ENT-DS-TAB-074",
+        "brand_name": "Entamizole DS",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "500mg/400mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 15)",
+        "original_pack_quantity": 15,
+        "units_per_strip": 15,
+        "price": 300,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Metallic taste",
+            "Nausea",
+            "Dark urine"
+        ],
+        "contraindications": [
+            "First trimester pregnancy"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Amoebicide",
+        "generic_name": "Metronidazole + Diloxanide Furoate",
+        "category": "Gastrointestinal",
+        "sku": "ABT-ENT-SUS-075",
+        "brand_name": "Entamizole Suspension",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "250mg/200mg",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 90ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 150,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Metallic taste",
+            "GI upset"
+        ],
+        "contraindications": [
+            "First trimester pregnancy"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Shake well before use"
+        ]
+    },
+    {
+        "therapeutic_class": "Osmotic Laxative",
+        "generic_name": "Lactulose",
+        "category": "Gastrointestinal",
+        "sku": "ABT-DUP-STD-SYR-076",
+        "brand_name": "Duphalac",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "66.7g/100ml",
+        "dosage_form": "Syrup",
+        "package_size": "Bottle 120ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 316,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Bloating",
+            "Flatulence"
+        ],
+        "contraindications": [
+            "Galactosemia",
+            "Intestinal obstruction"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Antispasmodic",
+        "generic_name": "Mebeverine",
+        "category": "Gastrointestinal",
+        "sku": "ABT-COL-135-TAB-077",
+        "brand_name": "Colofac",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "135mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 590,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Dizziness",
+            "Headache"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to mebeverine"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Anticonvulsant",
+        "generic_name": "Sodium Valproate",
+        "category": "Neurology",
+        "sku": "ABT-EPI-250-TAB-078",
+        "brand_name": "Epival",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "250mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 100)",
+        "original_pack_quantity": 100,
+        "units_per_strip": 10,
+        "price": 922,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Drowsiness",
+            "Weight gain",
+            "Tremor"
+        ],
+        "contraindications": [
+            "Liver disease",
+            "Pregnancy (neural tube defect risk)"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Alpha-1 Blocker",
+        "generic_name": "Terazosin",
+        "category": "Heart Care",
+        "sku": "ABT-HYT-1-TAB-079",
+        "brand_name": "Hytrin 1",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "1mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 546,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "Dizziness",
+            "Orthostatic hypotension"
+        ],
+        "contraindications": [
+            "Severe hypotension",
+            "Known hypersensitivity to terazosin"
+        ],
+        "storage": [
+            "Store below 25°C"
+        ]
+    },
+    {
+        "therapeutic_class": "Anti-vertigo Agent",
+        "generic_name": "Betahistine",
+        "category": "ENT",
+        "sku": "ABT-SRC-8-TAB-080",
+        "brand_name": "Serc 8",
+        "manufacturer": "Abbott Laboratories Pakistan",
+        "strength": "8mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 560,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "Headache",
+            "Nausea"
+        ],
+        "contraindications": [
+            "Pheochromocytoma",
+            "Known hypersensitivity to betahistine"
         ],
         "storage": [
             "Store below 25°C"
