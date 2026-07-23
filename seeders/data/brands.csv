@@ -1,5 +1,9 @@
 manufacturer,name,description,logo
 AGP Limited,Rigix,Cetirizine tablet,
+AGP Limited,Anafortan Plus,Phloroglucinol + Trimethylphloroglucinol tablet,
+AGP Limited,Chymoral Forte,Trypsin + Chymotrypsin tablet,
+AGP Limited,Osnate-D,Calcium + Vitamin D3 tablet,
+AGP Limited,Spasler Neo,Antispasmodic Combination tablet,
 
 Abbott Laboratories Pakistan,Brufen,Ibuprofen tablet,
 Abbott Laboratories Pakistan,Brufen200,Ibuprofen tablet,
@@ -29,6 +33,8 @@ Abbott Laboratories Pakistan,Serc 8,Betahistine tablet,
 Barrett Hodgson Pakistan,Cefspan,Cefixime capsule,
 
 Bosch Pharmaceuticals,Qbal,Mecobalamin tablet,
+Bosch Pharmaceuticals,Cebosh,Cefixime capsule,
+Bosch Pharmaceuticals,Cebosh Suspension,Cefixime suspension,
 
 Ferozsons Laboratories,Clarion,Clarithromycin tablet,
 
@@ -111,19 +117,31 @@ GlaxoSmithKline Pakistan,Chewcal,Calcium Carbonate + Vitamin D3 tablet,
 GlaxoSmithKline Pakistan,Cicatrin Powder,Neomycin + Bacitracin + Amino Acids powder,
 
 Highnoon Laboratories,Ulsanic,Sucralfate tablet,
+Highnoon Laboratories,Loprin,Aspirin tablet,
 
 Hilton Pharma,Hiflox,Ciprofloxacin tablet,
 
 Martin Dow,Neurobion,Vitamin B Complex tablet,
+Martin Dow,Buscopan Plus,Hyoscine Butylbromide + Paracetamol tablet,
+Martin Dow,Sangobion,Iron + Vitamin B Complex capsule,
 
 OBS Pakistan,Zocor,Simvastatin tablet,
+OBS Pakistan,Renitec,Enalapril Maleate tablet,
 
 Pfizer Pakistan,Ponstan Forte,Mefenamic Acid tablet,
 Pfizer Pakistan,Norvasc,Amlodipine tablet,
+Pfizer Pakistan,Lincocin,Lincomycin capsule,
+Pfizer Pakistan,Arthrotec 50,Diclofenac Sodium + Misoprostol tablet,
+Pfizer Pakistan,Feldene,Piroxicam tablet,
+Pfizer Pakistan,Diflucan,Fluconazole capsule,
+Pfizer Pakistan,Dalacin C,Clindamycin capsule,
 
 Sami Pharmaceuticals,Novidat,Ciprofloxacin tablet,
 Sami Pharmaceuticals,Dicloran,Diclofenac tablet,
 
 Sanofi Pakistan,Flagyl,Metronidazole tablet,
+Sanofi Pakistan,Amaryl,Glimepiride tablet,
+Sanofi Pakistan,Telfast,Fexofenadine tablet,
 
 The Searle Company,Nuberol Forte,Tramadol + Paracetamol tablet,
+The Searle Company,Aldactone,Spironolactone tablet,

@@ -3196,5 +3196,491 @@
             "Store below 25°C",
             "Protect from light and moisture"
         ]
+    },
+    {
+        "therapeutic_class": "Antispasmodic",
+        "generic_name": "Phloroglucinol + Trimethylphloroglucinol",
+        "category": "Gastrointestinal",
+        "sku": "AGP-ANF-STD-TAB-115",
+        "brand_name": "Anafortan Plus",
+        "manufacturer": "AGP Limited",
+        "strength": "80mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 1050,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Proteolytic Anti-Inflammatory Enzyme",
+        "generic_name": "Trypsin + Chymotrypsin",
+        "category": "Pain Relief",
+        "sku": "AGP-CHF-STD-TAB-116",
+        "brand_name": "Chymoral Forte",
+        "manufacturer": "AGP Limited",
+        "strength": "1mg/6mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 10,
+        "price": 340,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Calcium + Vitamin D Supplement",
+        "generic_name": "Calcium + Vitamin D3",
+        "category": "Vitamins",
+        "sku": "AGP-OSD-STD-TAB-117",
+        "brand_name": "Osnate-D",
+        "manufacturer": "AGP Limited",
+        "strength": "Standard",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 5 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 6,
+        "price": 570,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Antispasmodic",
+        "generic_name": "Antispasmodic Combination",
+        "category": "Gastrointestinal",
+        "sku": "AGP-SPP-STD-TAB-118",
+        "brand_name": "Spasler Neo",
+        "manufacturer": "AGP Limited",
+        "strength": "135 mg ",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 420,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Lincosamide Antibiotic",
+        "generic_name": "Lincomycin",
+        "category": "Antibiotics",
+        "sku": "PFZ-LIN-500-CAP-119",
+        "brand_name": "Lincocin",
+        "manufacturer": "Pfizer Pakistan",
+        "strength": "500mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 3 (Box of 12)",
+        "original_pack_quantity": 12,
+        "units_per_strip": 4,
+        "price": 266,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID + Prostaglandin Combination",
+        "generic_name": "Diclofenac Sodium + Misoprostol",
+        "category": "Pain Relief",
+        "sku": "PFZ-ART-50-TAB-120",
+        "brand_name": "Arthrotec 50",
+        "manufacturer": "Pfizer Pakistan",
+        "strength": "50mg/200mcg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 10,
+        "price": 350,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "NSAID",
+        "generic_name": "Piroxicam",
+        "category": "Pain Relief",
+        "sku": "PFZ-FEL-20-TAB-121",
+        "brand_name": "Feldene",
+        "manufacturer": "Pfizer Pakistan",
+        "strength": "20mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 40)",
+        "original_pack_quantity": 40,
+        "units_per_strip": 10,
+        "price": 877,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Antifungal",
+        "generic_name": "Fluconazole",
+        "category": "Antibiotics",
+        "sku": "PFZ-DIF-150-CAP-122",
+        "brand_name": "Diflucan",
+        "manufacturer": "Pfizer Pakistan",
+        "strength": "150mg",
+        "dosage_form": "Capsule",
+        "package_size": "Single Capsule",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 620,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Lincosamide Antibiotic",
+        "generic_name": "Clindamycin",
+        "category": "Antibiotics",
+        "sku": "PFZ-DAL-150-CAP-123",
+        "brand_name": "Dalacin C",
+        "manufacturer": "Pfizer Pakistan",
+        "strength": "150mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 4 (Box of 16)",
+        "original_pack_quantity": 16,
+        "units_per_strip": 4,
+        "price": 370,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Potassium-Sparing Diuretic",
+        "generic_name": "Spironolactone",
+        "category": "Heart Care",
+        "sku": "SRL-ALD-100-TAB-124",
+        "brand_name": "Aldactone",
+        "manufacturer": "The Searle Company",
+        "strength": "100mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 10)",
+        "original_pack_quantity": 10,
+        "units_per_strip": 10,
+        "price": 265,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "ACE Inhibitor",
+        "generic_name": "Enalapril Maleate",
+        "category": "Heart Care",
+        "sku": "OBS-REN-10-TAB-125",
+        "brand_name": "Renitec",
+        "manufacturer": "OBS Pakistan",
+        "strength": "10mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 10,
+        "price": 420,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Antiplatelet (Low-Dose Aspirin)",
+        "generic_name": "Aspirin",
+        "category": "Heart Care",
+        "sku": "HGN-LPR-75-TAB-126",
+        "brand_name": "Loprin",
+        "manufacturer": "Highnoon Laboratories",
+        "strength": "75mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 85,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "3rd Gen Cephalosporin Antibiotic",
+        "generic_name": "Cefixime",
+        "category": "Antibiotics",
+        "sku": "BSC-CBH-400-CAP-127",
+        "brand_name": "Cebosh",
+        "manufacturer": "Bosch Pharmaceuticals",
+        "strength": "400mg",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 5 (Box of 5)",
+        "original_pack_quantity": 5,
+        "units_per_strip": 5,
+        "price": 540,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "3rd Gen Cephalosporin Antibiotic",
+        "generic_name": "Cefixime",
+        "category": "Antibiotics",
+        "sku": "BSC-CBH-100-SUS-128",
+        "brand_name": "Cebosh Suspension",
+        "manufacturer": "Bosch Pharmaceuticals",
+        "strength": "100mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 30ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 290,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Antispasmodic + Analgesic",
+        "generic_name": "Hyoscine Butylbromide + Paracetamol",
+        "category": "Gastrointestinal",
+        "sku": "MDW-BUS-STD-TAB-129",
+        "brand_name": "Buscopan Plus",
+        "manufacturer": "Martin Dow",
+        "strength": "10mg/500mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 100)",
+        "original_pack_quantity": 100,
+        "units_per_strip": 10,
+        "price": 170,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Iron + Vitamin B Complex Supplement",
+        "generic_name": "Iron + Vitamin B Complex",
+        "category": "Vitamins",
+        "sku": "MDW-SAN-STD-CAP-130",
+        "brand_name": "Sangobion",
+        "manufacturer": "Martin Dow",
+        "strength": "Standard",
+        "dosage_form": "Capsule",
+        "package_size": "Strip of 10 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 10,
+        "price": 330,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Sulfonylurea",
+        "generic_name": "Glimepiride",
+        "category": "Diabetes",
+        "sku": "SAN-AMR-2-TAB-131",
+        "brand_name": "Amaryl",
+        "manufacturer": "Sanofi Pakistan",
+        "strength": "2mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 2 (Box of 30)",
+        "original_pack_quantity": 30,
+        "units_per_strip": 15,
+        "price": 760,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
+    },
+    {
+        "therapeutic_class": "Antihistamine",
+        "generic_name": "Fexofenadine",
+        "category": "Respiratory",
+        "sku": "SAN-TLF-60-TAB-132",
+        "brand_name": "Telfast",
+        "manufacturer": "Sanofi Pakistan",
+        "strength": "60mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 1 (Box of 14)",
+        "original_pack_quantity": 14,
+        "units_per_strip": 14,
+        "price": 335,
+        "currency": "PKR",
+        "prescription_required": true,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Protect from light and moisture"
+        ]
     }
 ]
