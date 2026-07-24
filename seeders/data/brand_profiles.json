@@ -3682,5 +3682,341 @@
             "Store below 25°C",
             "Protect from light and moisture"
         ]
+    },
+    {
+        "therapeutic_class": "OTC / Consumer Healthcare",
+        "generic_name": "Paracetamol + Caffeine",
+        "category": "Pain Relief",
+        "sku": "GSK-PNX-STD-TAB-133",
+        "brand_name": "Panadol Extra",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "500mg/65mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 100)",
+        "original_pack_quantity": 100,
+        "units_per_strip": 10,
+        "price": 60,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component",
+            "Severe liver disease"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep away from moisture and direct sunlight"
+        ]
+    },
+    {
+        "therapeutic_class": "OTC / Consumer Healthcare",
+        "generic_name": "Paracetamol + Caffeine + Phenylephrine",
+        "category": "Pain Relief",
+        "sku": "GSK-PCF-STD-TAB-134",
+        "brand_name": "Panadol CF",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "500mg/65mg/5mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 100)",
+        "original_pack_quantity": 100,
+        "units_per_strip": 10,
+        "price": 100,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component",
+            "Severe liver disease"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep away from moisture and direct sunlight"
+        ]
+    },
+    {
+        "therapeutic_class": "OTC / Consumer Healthcare",
+        "generic_name": "Paracetamol + Diphenhydramine",
+        "category": "Pain Relief",
+        "sku": "GSK-PNT-STD-TAB-135",
+        "brand_name": "Panadol Night",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "500mg/25mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 10,
+        "price": 230,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component",
+            "Severe liver disease"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep away from moisture and direct sunlight"
+        ]
+    },
+    {
+        "therapeutic_class": "OTC / Consumer Healthcare",
+        "generic_name": "Paracetamol + Ibuprofen",
+        "category": "Pain Relief",
+        "sku": "GSK-PNU-STD-TAB-136",
+        "brand_name": "Panadol Ultra",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "500mg/150mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 10,
+        "price": 150,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component",
+            "Severe liver disease"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep away from moisture and direct sunlight"
+        ]
+    },
+    {
+        "therapeutic_class": "OTC / Consumer Healthcare",
+        "generic_name": "Paracetamol + Phenylephrine",
+        "category": "Pain Relief",
+        "sku": "GSK-PCD-STD-TAB-137",
+        "brand_name": "Panadol CF Day",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "500mg/5mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 100)",
+        "original_pack_quantity": 100,
+        "units_per_strip": 10,
+        "price": 60,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component",
+            "Severe liver disease"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep away from moisture and direct sunlight"
+        ]
+    },
+    {
+        "therapeutic_class": "OTC / Consumer Healthcare",
+        "generic_name": "Paracetamol (Extended-Release)",
+        "category": "Pain Relief",
+        "sku": "GSK-PNE-665-TAB-138",
+        "brand_name": "Panadol Extend",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "665mg",
+        "dosage_form": "Tablet",
+        "package_size": "Strip of 10 (Box of 20)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 10,
+        "price": 153,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component",
+            "Severe liver disease"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep away from moisture and direct sunlight"
+        ]
+    },
+    {
+        "therapeutic_class": "OTC / Consumer Healthcare",
+        "generic_name": "Paracetamol",
+        "category": "Pediatrics",
+        "sku": "GSK-PND-DRP-139",
+        "brand_name": "Panadol Drops",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "100mg/ml",
+        "dosage_form": "Drops",
+        "package_size": "Bottle 30ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 97,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component",
+            "Severe liver disease"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep away from moisture and direct sunlight"
+        ]
+    },
+    {
+        "therapeutic_class": "OTC / Consumer Healthcare",
+        "generic_name": "Paracetamol",
+        "category": "Pediatrics",
+        "sku": "GSK-PNC-LIQ-140",
+        "brand_name": "Panadol Children's Liquid Sugar Free",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "120mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 120ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 148,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component",
+            "Severe liver disease"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep away from moisture and direct sunlight"
+        ]
+    },
+    {
+        "therapeutic_class": "OTC / Consumer Healthcare",
+        "generic_name": "Paracetamol",
+        "category": "Pediatrics",
+        "sku": "GSK-PNF-SUS-141",
+        "brand_name": "Panadol Forte Suspension",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "250mg/5ml",
+        "dosage_form": "Suspension",
+        "package_size": "Bottle 90ml",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 136,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component",
+            "Severe liver disease"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep away from moisture and direct sunlight"
+        ]
+    },
+    {
+        "therapeutic_class": "OTC / Consumer Healthcare",
+        "generic_name": "Calcium Carbonate + Vitamin D3",
+        "category": "Vitamins",
+        "sku": "GSK-QAL-STD-TAB-142",
+        "brand_name": "Qalsium-D",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "Calcium Carbonate,Vitamin D3",
+        "dosage_form": "Tablet",
+        "package_size": "Bottle of 40 (Chewable)",
+        "original_pack_quantity": 40,
+        "units_per_strip": 40,
+        "price": 320,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component",
+            "Severe liver disease"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep away from moisture and direct sunlight"
+        ]
+    },
+    {
+        "therapeutic_class": "OTC / Consumer Healthcare",
+        "generic_name": "Calcium Carbonate + Calcium Lactate Gluconate",
+        "category": "Vitamins",
+        "sku": "GSK-CAC-STD-TAB-143",
+        "brand_name": "Cac-1000 Plus",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "1000mg",
+        "dosage_form": "Tablet",
+        "package_size": "Bottle of 20 (Effervescent)",
+        "original_pack_quantity": 20,
+        "units_per_strip": 20,
+        "price": 656,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component",
+            "Severe liver disease"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep away from moisture and direct sunlight"
+        ]
+    },
+    {
+        "therapeutic_class": "OTC / Consumer Healthcare",
+        "generic_name": "Diclofenac Diethylamine",
+        "category": "Pain Relief",
+        "sku": "GSK-VOL-1-GEL-144",
+        "brand_name": "Voltral Emulgel",
+        "manufacturer": "GlaxoSmithKline Pakistan",
+        "strength": "1%",
+        "dosage_form": "Gel",
+        "package_size": "Tube 50g",
+        "original_pack_quantity": 1,
+        "units_per_strip": 1,
+        "price": 450,
+        "currency": "PKR",
+        "prescription_required": false,
+        "status": "active",
+        "side_effects": [
+            "See package insert for full details"
+        ],
+        "contraindications": [
+            "Known hypersensitivity to any component",
+            "Severe liver disease"
+        ],
+        "storage": [
+            "Store below 25°C",
+            "Keep away from moisture and direct sunlight"
+        ]
     }
 ]
